@@ -1,0 +1,420 @@
+EText-No. 1656 
+Title: Apology 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/pplgy10.zip 
+ 
+
+EText-No. 1580 
+Title: Charmides 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/chmds10.zip 
+ 
+
+EText-No. 1616 
+Title: Cratylus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/crtls10.zip 
+ 
+
+EText-No. 1571 
+Title: Critias 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/criti10.zip 
+ 
+
+EText-No. 1657 
+Title: Crito 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/crito10.zip 
+ 
+
+EText-No. 1598 
+Title: Euthydemus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/uthyd10.zip 
+ 
+
+EText-No. 1642 
+Title: Euthyphro 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/uthph10.zip 
+ 
+
+EText-No. 1672 
+Title: Gorgias 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/grgis10.zip 
+ 
+
+EText-No. 1635 
+Title: Ion 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/ionbp10.zip 
+ 
+
+EText-No. 1584 
+Title: Laches 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/lachs10.zip 
+ 
+
+EText-No. 1750 
+Title: Laws 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/plaws11.zip 
+ 
+
+EText-No. 1579 
+Title: Lysis 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/lysis10.zip 
+ 
+
+EText-No. 1682 
+Title: Menexenus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/mnxns10.zip 
+ 
+
+EText-No. 1643 
+Title: Meno 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/1meno10.zip 
+ 
+
+EText-No. 1687 
+Title: Parmenides 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/prmds10.zip 
+ 
+
+EText-No. 1658 
+Title: Phaedo 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/phado10.zip 
+ 
+
+EText-No. 1636 
+Title: Phaedrus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/phdrs10.zip 
+ 
+
+EText-No. 1744 
+Title: Philebus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/philb10.zip 
+ 
+
+EText-No. 1591 
+Title: Protagoras 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/prtgs10.zip 
+ 
+
+EText-No. 1735 
+Title: Sophist 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sopht10.zip 
+ 
+
+EText-No. 1738 
+Title: Statesman 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sttsm10.zip 
+ 
+
+EText-No. 1600 
+Title: Symposium 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sympo10.zip 
+ 
+
+EText-No. 150 
+Title: The Republic 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext94/repub13.zip 
+ 
+
+EText-No. 1497 
+Title: The Republic 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/repub11.zip 
+ 
+
+EText-No. 1726 
+Title: Theaetetus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/thtus10.zip 
+ 
+
+EText-No. 1572 
+Title: Timaeus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/tmeus11.zip 
+ 
+
+EText-No. 1676 
+Title: Alcibiades I 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/1lcbd10.zip 
+ 
+
+EText-No. 1677 
+Title: Alcibiades II 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/2lcbd10.zip 
+ 
+
+EText-No. 1681 
+Title: Eryxias 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/ryxis10.zip 
+ 
+
+EText-No. 1673 
+Title: Lesser Hippias 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/lhpps10.zip 
+ 
+
+EText-No. 1676 
+Title: Alcibiades I 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/1lcbd10.zip 
+ 
+
+EText-No. 1677 
+Title: Alcibiades II 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/2lcbd10.zip 
+ 
+
+EText-No. 1656 
+Title: Apology 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/pplgy10.zip 
+ 
+
+EText-No. 1580 
+Title: Charmides 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/chmds10.zip 
+ 
+
+EText-No. 1616 
+Title: Cratylus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/crtls10.zip 
+ 
+
+EText-No. 1571 
+Title: Critias 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/criti10.zip 
+ 
+
+EText-No. 1657 
+Title: Crito 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/crito10.zip 
+ 
+
+EText-No. 1681 
+Title: Eryxias 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/ryxis10.zip 
+ 
+
+EText-No. 1598 
+Title: Euthydemus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/uthyd10.zip 
+ 
+
+EText-No. 1642 
+Title: Euthyphro 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/uthph10.zip 
+ 
+
+EText-No. 1672 
+Title: Gorgias 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/grgis10.zip 
+ 
+
+EText-No. 1635 
+Title: Ion 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/ionbp10.zip 
+ 
+
+EText-No. 1584 
+Title: Laches 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/lachs10.zip 
+ 
+
+EText-No. 1750 
+Title: Laws 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/plaws11.zip 
+ 
+
+EText-No. 1673 
+Title: Lesser Hippias 
+Author: Plato, circa 427-347 BC. Spurious and doubtful works 
+Language: English 
+Link:   etext99/lhpps10.zip 
+ 
+
+EText-No. 1579 
+Title: Lysis 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/lysis10.zip 
+ 
+
+EText-No. 1682 
+Title: Menexenus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/mnxns10.zip 
+ 
+
+EText-No. 1643 
+Title: Meno 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/1meno10.zip 
+ 
+
+EText-No. 1687 
+Title: Parmenides 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/prmds10.zip 
+ 
+
+EText-No. 1658 
+Title: Phaedo 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/phado10.zip 
+ 
+
+EText-No. 1636 
+Title: Phaedrus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/phdrs10.zip 
+ 
+
+EText-No. 1744 
+Title: Philebus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/philb10.zip 
+ 
+
+EText-No. 1591 
+Title: Protagoras 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/prtgs10.zip 
+ 
+
+EText-No. 1735 
+Title: Sophist 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sopht10.zip 
+ 
+
+EText-No. 1738 
+Title: Statesman 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sttsm10.zip 
+ 
+
+EText-No. 1600 
+Title: Symposium 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/sympo10.zip 
+ 
+
+EText-No. 150 
+Title: The Republic 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext94/repub13.zip 
+ 
+
+EText-No. 1497 
+Title: The Republic 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/repub11.zip 
+ 
+
+EText-No. 1726 
+Title: Theaetetus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext99/thtus10.zip 
+ 
+
+EText-No. 1572 
+Title: Timaeus 
+Author: Plato, 427? BC-347? BC 
+Language: English 
+Link:   etext98/tmeus11.zip 
+ 
+

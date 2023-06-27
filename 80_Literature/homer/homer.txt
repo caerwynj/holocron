@@ -1,0 +1,135 @@
+EText-No. 348 
+Title: Hesiod, the Homeric Hymns, and Homerica 
+Author: Hesiod 
+Language: English 
+Link:   etext95/homer10.zip 
+ 
+
+EText-No. 2199 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext00/iliad10.zip 
+ 
+
+EText-No. 3059 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext02/iliab10.zip 
+ 
+
+EText-No. 6130 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext04/iliad10a.zip 
+ 
+
+EText-No. 6150 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext04/iliad10b.zip 
+ 
+
+EText-No. 16452 
+Title: The Iliad of Homer - Translated into English Blank Verse by William Cowper 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   1/6/4/5/16452/16452-8.zip 
+Link:   1/6/4/5/16452/16452.zip 
+ 
+
+EText-No. 1727 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext99/dyssy10.zip 
+ 
+
+EText-No. 1728 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext99/dyssy08a.zip 
+ 
+
+EText-No. 3160 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext02/dyssy11b.zip 
+ 
+
+EText-No. 16338 
+Title: The Homeric Hymns - A New Prose Translation; and Essays, Literary and Mythological 
+Author: Lang, Andrew, 1844-1912 
+Language: English 
+Link:   1/6/3/3/16338/16338.zip 
+ 
+
+EText-No. 348 
+Title: Hesiod, the Homeric Hymns, and Homerica 
+Author: Hesiod 
+Language: English 
+Link:   etext95/homer10.zip 
+ 
+
+EText-No. 2199 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext00/iliad10.zip 
+ 
+
+EText-No. 3059 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext02/iliab10.zip 
+ 
+
+EText-No. 6130 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext04/iliad10a.zip 
+ 
+
+EText-No. 6150 
+Title: The Iliad 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext04/iliad10b.zip 
+ 
+
+EText-No. 16452 
+Title: The Iliad of Homer - Translated into English Blank Verse by William Cowper 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   1/6/4/5/16452/16452-8.zip 
+Link:   1/6/4/5/16452/16452.zip 
+ 
+
+EText-No. 1727 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext99/dyssy10.zip 
+ 
+
+EText-No. 1728 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext99/dyssy08a.zip 
+ 
+
+EText-No. 3160 
+Title: The Odyssey 
+Author: Homer, 750? BC-650? BC 
+Language: English 
+Link:   etext02/dyssy11b.zip 
+ 
+

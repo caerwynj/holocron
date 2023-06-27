@@ -1,0 +1,97 @@
+#############################################################
+# Data file - see http://vulsearch.sf.net/plain.html        #
+#                                                           #
+# Each book of the Bible has a line, with fields 1/2/3/4/5  #
+# 1 - standard abbreviation                                 #
+# 2 - full title                                            #
+# 3 - short name                                            #
+# 4 - text creator(s)                                       #
+# 5 - proof-reader(s)                                       #
+#                                                           #
+# The proof-readers:                                        #
+# MBo - Mila Bozovic                                        #
+# MB  - Marjorie Burghart                                   #
+# RC  - Ron Conte                                           #
+# MD  - Michael Dubiaga                                     #
+# SF  - Sean Finnegan                                       #
+# AI  - Alundis Insensate                                   #
+# EK  - Ed Kotski                                           #
+# BM  - Bertrand Michelet
+# MM  - Michael Morbach                                     #
+# MT  - Michael Tweedale                                    #
+# AV  - Andreja Vasiljevic                                  #
+#############################################################
+
+Gn/Liber Genesis/Genesis/MT/MT (bis)
+Ex/Liber Exodus/Exodus/MT/MT (bis)
+Lv/Liber Leviticus/Leviticus/MT/MT (bis)
+Nm/Liber Numeri/Numeri/MT/MT (bis)
+Dt/Liber Deuteronomii/Deuteronomium/MT/MT (bis)
+Jos/Liber Josue/Josue/MT/MT (bis)
+Jdc/Liber Judicum/Judicum/MT/MT (bis)
+Rt/Liber Ruth/Ruth/MT/RC and MT
+1Rg/Liber Primus Regum/Regum I/MT/MT (bis) and EK
+2Rg/Liber Secundus Regum/Regum II/MT/MT (bis) and EK
+3Rg/Liber Tertius Regum/Regum III/MT/MT (bis) and EK
+4Rg/Liber Quartus Regum/Regum IV/MT/MT (bis)
+1Par/Liber Primus Paralipomenon/Paralipomenon I/MT/MT (bis)
+2Par/Liber Secundus Paralipomenon/Paralipomenon II/MT/MT (bis) and MBo
+Esr/Liber Esdræ/Esdræ/MT/MD and MT
+Neh/Liber Nehemiæ/Nehemiæ/MT/MD, RC and MT
+Tob/Liber Tobiæ/Tobiæ/MT/MD and MT
+Jdt/Liber Judith/Judith/MT/RC, MD and MT
+Est/Liber Esther/Esther/MT/MT (bis)
+Job/Liber Job/Job/MB and MT/MT (bis) and RC
+Ps/Liber Psalmorum/Psalmi/MT and SF/MT (bis), EK and BM, and in part by various other people
+Pr/Liber Proverbiorum/Proverbia/MT/MD and MT
+Ecl/Liber Ecclesiastes/Ecclesiastes/MT/MT (bis)
+Ct/Canticum Canticorum Salomonis/Canticum Canticorum/MT/MT (bis)
+Sap/Liber Sapientiæ/Sapientia/MB/MT (bis) and RC
+Sir/Ecclesiasticus Jesu, filii Sirach/Ecclesiasticus/MT/MT (bis)
+Is/Prophetia Isaiæ/Isaias/MT/MT (bis)
+Jr/Prophetia Jeremiæ/Jeremias/MT/MT (bis) and AV
+Lam/Lamentationes Jeremiæ Prophetæ/Lamentationes/MT/MT (bis)
+Bar/Prophetia Baruch/Baruch/MT/RC and MT
+Ez/Prophetia Ezechielis/Ezechiel/MT/MT (bis) and MBo
+Dn/Prophetia Danielis/Daniel/MT/MT (bis)
+Os/Prophetia Osee/Osee/MT/MT (bis)
+Joel/Prophetia Joël/Joel/MT/MT (bis)
+Am/Prophetia Amos/Amos/MT/MT (bis)
+Abd/Prophetia Abdiæ/Abdias/MT/MT (bis)
+Jon/Prophetia Jonæ/Jonas/MT/MT (bis)
+Mch/Prophetia Michææ/Michæa/MT/MT (bis)
+Nah/Prophetia Nahum/Nahum/MT/MT (bis)
+Hab/Prophetia Habacuc/Habacuc/MT/MT (bis)
+Soph/Prophetia Sophoniæ/Sophonias/MT/MT (bis)
+Agg/Prophetia Aggæi/Aggæus/MT/MT (bis)
+Zach/Prophetia Zachariæ/Zacharias/MT/MT (bis)
+Mal/Prophetia Malachiæ/Malachias/MT/MT (bis)
+1Mcc/Liber I Machabæorum/Machabæorum I/MT/MT (bis)
+2Mcc/Liber II Machabæorum/Machabæorum II/MT/MT (bis) and MD
+Mt/Evangelium secundum Matthæum/Matthæus/MT/MM and MT
+Mc/Evangelium secundum Marcum/Marcus/MT/MM and MT
+Lc/Evangelium secundum Lucam/Lucas/MT/MM and MT
+Jo/Evangelium secundum Joannem/Joannes/MT/MM and MT
+Act/Actus Apostolorum/Actus Apostolorum/MT/MT (bis) and AI
+Rom/Epistola B. Pauli Apostoli ad Romanos/ad Romanos/MT/MM and MT
+1Cor/Epistola B. Pauli Apostoli ad Corinthios Prima/ad Corinthios I/MT/MM and MT
+2Cor/Epistola B. Pauli Apostoli ad Corinthios Secunda/ad Corinthios II/MT/MT (bis)
+Gal/Epistola B. Pauli Apostoli ad Galatas/ad Galatas/MT/MT (bis) and MD
+Eph/Epistola B. Pauli Apostoli ad Ephesios/ad Ephesios/MT/MT and MD
+Phlp/Epistola B. Pauli Apostoli ad Philippenses/ad Philippenses/MT/MT and MD
+Col/Epistola B. Pauli Apostoli ad Colossenses/ad Colossenses/MT/MM and MD
+1Thes/Epistola B. Pauli Apostoli ad Thessalonicenses Prima/ad Thessalonicenses I/MT/MM and MT
+2Thes/Epistola B. Pauli Apostoli ad Thessalonicenses Secunda/ad Thessalonicenses II/MT/MM and MT
+1Tim/Epistola B. Pauli Apostoli ad Timotheum Prima/ad Timotheum I/MT/MM and MT
+2Tim/Epistola B. Pauli Apostoli ad Timotheum Secunda/ad Timotheum II/MT/MM and MT
+Tit/Epistola B. Pauli Apostoli ad Titum/ad Titum/MT/MM and MT
+Phlm/Epistola B. Pauli Apostoli ad Philemonem/ad Philemonem/MT/MM and MT
+Hbr/Epistola B. Pauli Apostoli ad Hebræos/ad Hebræos/MT/MT (bis) and MD
+Jac/Epistola Catholica B. Jacobi Apostoli/Jacobi/MT/MM and MT
+1Ptr/Epistola B. Petri Apostoli Prima/Petri I/MT/MM and MT
+2Ptr/Epistola B. Petri Apostoli Secunda/Petri II/MT/MM and MT
+1Jo/Epistola B. Joannis Apostoli Prima/Joannis I/MT/MM and MT
+2Jo/Epistola B. Joannis Apostoli Secunda/Joannis II/MT/MM and MT
+3Jo/Epistola B. Joannis Apostoli Tertia/Joannis III/MT/MM and MT
+Jud/Epistola Catholica B. Judæ Apostoli/Judæ/MT/MM and MT
+Apc/Apocalypsis B. Joannis Apostoli/Apocalypsis/MT/MT (bis)

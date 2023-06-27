@@ -1,0 +1,1886 @@
+
+
+
+
+
+This etext was prepared by Mike Pullen
+globaltraveler5565@YAHOO.com
+
+
+
+
+Valerius Terminus: of the Interpretation of Nature
+
+by Francis Bacon
+
+
+
+
+Preface by Robert Leslie Ellis
+
+The following fragments of a great work on the Interpretation of
+Nature were first published in Stephens's Letters and Remains [1734].
+They consist partly of detached passages, and partly of an epitome
+of twelve chapters of the first book of the proposed work.  The
+detached passages contain the first, sixth, and eighth chapters, and
+portions of the fourth, fifth, seventh, ninth, tenth, eleventh, and
+sixteenth.  The epitome contains an account of the contents of all
+the chapters from the twelfth to the twenty-sixth inclusive, omitting
+the twentieth, twentythird, and twenty-fourth.  Thus the sixteenth
+chapter is mentioned both in the epitome and among the detached
+passages, and we are thus enabled to see that the two portions of the
+following tract belong to the same work, as it appears from both that
+the sixteenth chapter was to treat of the doctrine of idola.
+
+It is impossible to ascertain the motive which determined Bacon to
+give to the supposed author the name of Valerius Terminus, or to his
+commentator, of whose annotations we have no remains, that of Hermes
+Stella.  It may be conjectured that by the name Terminus he intended
+to intimate that the new philosophy would put an end to the wandering
+of mankind in search of truth, that it would be the TERMINUS AD QUEM
+in which when it was once attained the mind would finally acquiesce.
+
+Again, the obscurity of the text was to be in some measure removed by
+the annotations of Stella; not however wholly, for Bacon in the
+epitome of the eighteenth chapter commends the manner of publishing
+knowledge "whereby it shall not be to the capacity nor taste of all,
+but shall as it were single and adopt his reader."  Stella was
+therefore to throw a kind of starlight on the subject, enough to
+prevent the student's losing his way, but not much more.
+
+However this may be, the tract is undoubtedly obscure, partly from
+the style in which it is written, and partly from its being only a
+fragment.  It is at the same time full of interest, inasmuch as it is
+the earliest type of the INSTAURATIO...
+
+Note to Preface by James Spedding:
+
+The manuscript from which Robert Stephens printed these fragments was
+found among some loose papers placed in his hands by the Earl of
+Oxford, and is now in the British Museum; Harl. manuscripts 6462. It
+is a thin paper volume of the quarto size, written in the hand of one
+of Bacon's servants, with corrections, erasures, and interlineations
+in his own.
+
+The chapters of which it consists are both imperfect in themselves
+(all but three),--some breaking off abruptly, others being little
+more than tables of contents,--and imperfect in their connexion with
+each other; so much so as to suggest the idea of a number of separate
+papers loosely put together.  But it was not so (and the fact is
+important) that the volume itself was actually made up.  However they
+came together, they are here fairly and consecutively copied out.
+Though it be a collection of fragments therefore, it is such a
+collection as Bacon thought worthy not only of being preserved, but
+of being transcribed into a volume; and a particular account of it
+will not be out of place.
+
+The contents of the manuscript before Bacon touched it may be thus
+described.
+
+1. A titlepage, on which is written "VALERIUS TERMINUS of the
+Interpretation of Nature, with the annotations of HERMES STELLA."
+
+2. "Chapter I. Of the limits and end of knowledge;" with a running
+title, "Of the Interpretation of Nature."
+
+3. "The chapter immediately following the Inventory; being the 11th
+in order."
+
+4. "A part of the 9th chapter, immediately precedent to the Inventory,
+and inducing the same."
+
+5. "The Inventory, or an enumeration and view of inventions already
+discovered and in use, together with a note of the wants and the
+nature of the supplies; being the 10th chapter, and this a fragment
+only of the same."
+
+6. Part of a chapter, not numbered, "Of the internal and profound
+errors and superstitions in the nature of the mind, and of the four
+sorts of Idols or fictions which offer themselves to the
+understanding in the inquisition of knowledge."
+
+7. "Of the impediments of knowledge; being the third chapter, the
+preface only of it."
+
+8. "Of the impediments which have been in the times and in diversion
+of wits; being the fourth chapter."
+
+9. "Of the impediments of knowledge for want of a true succession of
+wits, and that hitherto the length of one man's life hath been the
+greatest measure of knowledge; being the fifth chapter."
+
+10. "That the pretended succession of wits hath been evil placed,
+forasmuch as after variety of sects and opinions the most popular and
+not the truest prevaileth and weareth out the rest; being the sixth
+chapter."
+
+11. "Of the impediments of knowledge in handling it by parts, and in
+slipping off particular sciences from the root and stock of universal
+knowledge; being the seventh chapter."
+
+12. "That the end and scope of knowledge hath been generally mistaken,
+and that men were never well advised what it was they sought" (part
+of a chapter not numbered).
+
+13. "An abridgment of divers chapters of the first book;" namely, the
+l2th, 13th, and 14th, (over which is a running title "Of active
+knowledge;") and (without any running title) the 15th, 16th, 17th,
+18th], 19th, 21st, 22nd, 25th, and 26th.  These abridgments have no
+headings; and at the end is written, "The end of the Abridgment of
+the first book of the Interpretation of Nature."
+
+
+Such was the arrangement of the manuscript as the transcriber left it;
+which I have thought worth preserving, because I seem to see traces
+in it of two separate stages in the developement of the work; the
+order of the chapters as they are transcribed being probably the same
+in which Bacon wrote them; and the numbers inserted at the end of the
+headings indicating the order in which, when he placed them in the
+transcriber's hands, it was his intention to arrange them; and
+because it proves at any rate that at that time the design of the
+whole book was clearly laid out in his mind.
+
+There is nothing, unfortunately, to fix the DATE of the transcript,
+unless it be implied in certain astronomical or astrological symbols
+written on the blank outside of the volume; in which the figures 1603
+occur.  This may possibly be the transcriber's note of the time when
+he finished his work; for which (but for one circumstance which I
+shall mention presently) I should think the year 1603 is likely a
+date as any; for we know from a letter of Bacon's, dated 3rd July
+1603, that he had at that time resolved "to meddle as little as
+possible in the King's causes," and to "put his ambition wholly upon
+his pen;" and we know from the ADVANCEMENT OF LEARNING that in 1605
+he was engaged upon a work entitled "The Interpretation of Nature:"
+to which I may add that there is in the Lambeth Library a copy of a
+letter from Bacon to Lord Kinlosse, dated 25th March, 1603, and
+written in the same hand as this manuscript.
+
+Bacon's corrections, if I may judge from the character of the
+handwriting, were inserted a little later; for it is a fact that
+about the beginning of James's reign his writing underwent a
+remarkable change, from the hurried Saxon hand full of large sweeping
+curves and with letters imperfectly formed and connected, which he
+wrote in Elizabeth's time, to a small, neat, light, and compact one,
+formed more upon the Italian model which was then coming into fashion;
+and when these corrections were made it is evident that this new
+character had become natural to him and easy.  It is of course
+impossible to fix the precise date of such a change,--the more so
+because his autographs of this period are very scarce,--but whenever
+it was that he corrected this manuscript, it is evident that he then
+considered it worthy of careful revision.  He has not merely inserted
+a sentence here and there, altered the numbers of the chapters, and
+added words to the headings in order to make the description more
+exact; but he has taken the trouble to add the running title wherever
+it was wanting, thus writing the words "of the Interpretation of
+Nature" at full lengths not less than eighteen times over; and upon
+the blank space of the titlepage he has written out a complete table
+of contents.  In short, if he had been preparing the manuscript for
+the press or for a fresh transcript, he could not have done it more
+completely or carefully,--only that he has given no directions for
+altering the order of the chapters so as to make it correspond with
+the numbers.  And hence I infer that up to the time when he made
+these corrections, this was the form of the great work on which he
+was engaged: it was a work concerning the Interpretation of Nature;
+which was to begin where the NOVUM ORGANUM begins; and of which the
+first book was to include all the preliminary considerations
+preparatory to the exposition of the formula.
+
+I place this fragment here in deference to Mr. Ellis's decided
+opinion that it was written before the ADVANCEMENT OF LEARNING. The
+positive ground indeed which he alleges in support of that conclusion
+I am obliged to set aside, as founded, I think, upon a
+misapprehension; and the supposition that no part of it was written
+later involves a difficulty which I cannot yet get over to my own
+satisfaction.  But that the body of it was written earlier I see no
+reason to doubt; and if so, this is its proper place.
+
+The particular point on which I venture to disagree with Mr. Ellis I
+have stated in a note upon his preface to the NOVUM ORGANUM,
+promising at the same time a fuller explanation of the grounds of my
+own conclusion, which I will now give.
+
+The question is, whether the "Inventory" in the 10th chapter of
+VALERIUS TERMINUS was to have exhibited a general survey of the state
+of knowledge corresponding with that which fills the second book of
+the ADVANCEMENT OF LEARNING. I think not.
+
+It is true indeed that the title of that 10th chapter,--namely, "The
+Inventory, or an enumeration and view of inventions already
+discovered and in use, with a note of the wants and the nature of the
+supplies",--has at first sight a considerable resemblance to the
+description of the contents of the second book of the ADVANCEMENT OF
+LEARNING,--namely, "A general and faithful perambulation of learning,
+with an inquiry what parts thereof lie fresh and waste, and not
+improved and converted by the industry of Man;... wherein
+nevertheless my purpose is at this time to note only omissions and
+deficiencies, and not to make any redargutions of errors," and so on.
+But an "enumeration of INVENTIONS" is not the same thing as "a
+perambulation of LEARNING;" and it will be found upon closer
+examination that the "Inventory" spoken of in VALERIUS TERMINUS does
+really correspond to one, and one only, of the fiftyone Desiderata
+set down at the end of the DE AUGMENTIS; viz. that INVENTARIUM OPUM
+HUMANARUM, which was to be an appendix to the MAGIA NATURALIS. See DE
+AUG. iii. 5. This will appear clearly by comparing the descriptions
+of the two.
+
+In the ADVANCEMENT OF LEARNING Bacon tells us that there are two
+points of much purpose pertaining to the department of Natural Magic:
+the first of which is, "That there be made a calendar resembling an
+Inventory of the ESTATE OF MAN, containing ALL THE INVENTIONS, BEING
+THE WORKS OR FRUITS OF NATURE OR ART, which are now extant AND OF
+WHICH MAN IS ALREADY POSSESSED; out of which doth naturally result a
+note what things are yet held impossible or not invented; which
+calendar will be the more artificial and serviceable if to every
+reputed impossibility you add what thing is extant which cometh the
+nearest in degree to that impossibility: to the end that by these
+optatives and essentials man's inquiry may be the more awake in
+deducing direction of works from the speculation of causes."
+
+The Inventory which was to have been inserted in the 10th chapter of
+VALERIUS TERMINUS is thus introduced:--"The plainest method and most
+directly pertinent to this intention will be to make distribution of
+SCIENCES, ARTS, INVENTIONS, WORKS, and their portions, ACCORDING TO
+THE USE AND TRIBUTE WHICH THEY YIELD AND RENDER TO THE CONDITION OF
+MAN'S LIFE; and under those several uses, being as several offices of
+provisions, to charge and tax what may be reasonably exacted or
+demanded,... and then upon those charges and taxations to distinguish
+and present as it were in several columns what is extant and already
+found, and what is DEFECTIVE AND FURTHER TO BE PROVIDED. Of which
+provisions because in many of them, after the manner of slothful and
+faulty accomptants, it will be returned by way of excuse that no such
+are to be had, it will be fit to give some light OF THE NATURE OF THE
+SUPPLIES; whereby it will evidently appear that they are to be
+compassed and procured."  And that the calendar was to deal, not with
+knowledge in general, but only with arts and sciences of invention in
+its more restricted sense--the PARS OPERATIVA DE NATURA (DE AUG. iii.
+5.)--appears no less clearly from the opening of the 11th chapter,
+which was designed immediately to follow the "Inventory."  "It
+appeareth then what is now in proposition, not by general
+circumlocution but by particular note.  No former philosophy," etc.
+etc. "but the revealing and discovering of NEW INVENTIONS AND
+OPERATIONS,... the nature and kinds of which inventions HAVE BEEN
+DESCRIBED as they could be discovered," etc. If further evidence were
+required of the exact resemblance between the Inventory of VALERIUS
+TERMINUS and the Inventarium of the ADVANCEMENT and the DE AUGMENTIS,
+I might quote the end of the 9th chapter, where the particular
+expressions correspond, if possible, more closely still.  But I
+presume that the passages which I have given are enough; and that the
+opinion which I have elsewhere expressed as to the origin of the
+ADVANCEMENT OF LEARNING,--namely, that the writing of it was a
+by-thought and no part of the work on the Interpretation of Nature as
+originally designed,--will not be considered inconsistent with the
+evidence afforded by these fragments.
+
+That the VALERIUS TERMINUS was composed before the ADVANCEMENT,
+though a conclusion not deducible from the Inventory, is nevertheless
+probable: but to suppose that it was so composed EXACTLY IN ITS
+PRESENT FORM, involves, as I said, a difficulty; which I will now
+state.  The point is interesting, as bearing directly upon the
+developement in Bacon's mind of the doctrine of Idols; concerning
+which see preface to NOVUM ORGANUM, note C. But I have to deal with
+it here merely as bearing upon the probable date of this fragment.
+
+In treating of the department of Logic in the ADVANCEMENT, Bacon
+notices as altogether wanting "the particular elenches or cautions
+against three false appearances" or fallacies by which the mind of
+man is beset: the "caution" of which, he says, "doth extremely import
+the true conduct of human judgment."  These false appearances he
+describes, though he does not give their names; and they correspond
+respectively to what he afterwards called the Idols of the Tribe, the
+Cave, and the Forum.  But he makes no mention of the fourth; namely,
+the Idols of the Theatre.  Now in VALERIUS TERMINUS we find two
+separate passages in which the Idols are mentioned; and in both all
+four are enumerated, and all by name; though what he afterwards
+called Idols of the Forum, he there calls Idols of the Palace; and it
+seems to me very unlikely that, if when he wrote the ADVANCEMENT he
+had already formed that classification he should have omitted all
+mention of the Idols of the Theatre; for though it is true that that
+was not the place to discuss them, and therefore in the corresponding
+passage of the DE AUGMENTIS they are noticed as to be passed by "for
+the present," yet they are noticed by name, and in all Bacon's later
+writings the confutation of them holds a very prominent place.
+
+To me the most probable explanation of the fact is this.  I have
+already shown that between the composition and the transcription of
+these fragments the design of the work appears to have undergone a
+considerable change; the order of the chapters being entirely altered.
+We have only to suppose therefore that they were composed before
+the ADVANCEMENT and transcribed after, and that in preparing them for
+the transcriber Bacon made the same kind of alterations in the
+originals which he afterwards made upon the transcript, and the
+difficulty disappears.  Nothing would be easier than to correct
+"three" into "four," and insert "the Idols of the Theatre" at the end
+of the sentence.
+
+And this reminds me (since I shall have so much to do with these
+questions of date) to suggest a general caution with regard to them
+all; namely, that in the case of fragments like these, the comparison
+of isolated passages can hardly ever be relied upon for evidence of
+the date or order of composition, or of the progressive developement
+of the writer's views; and for this simple reason,--we can never be
+sure that the passages as they now stand formed part of the original
+writing.  The copy of the fragment which we have may be (as there is
+reason to believe this was) a transcript from several loose papers,
+written at different periods and containing alterations or additions
+made from time to time.  We may know perhaps that when Bacon
+published the ADVANCEMCNT OF LEARNING he was ignorant of some fact
+with which he afterwards became acquainted; we may find in one of
+these fragments,--say the TEMPORIS PARTUS MASCULUS,--a passage
+implying acquaintance with that fact.  Does it follow that the
+TEMPORIS PARTUS MASCULUS was written after the ADVANCEMENT OF
+LEARNING?  No; for in looking over the manuscript long after it was
+written, he may have observed and corrected the error.  And we cannot
+conclude that he at the same time altered the whole composition so as
+to bring it into accordance with the views he then held; for that
+might be too long a work.  He may have inserted a particular
+correction, but meant to rewrite the whole; and if so, in spite of
+the later date indicated by that particular passage, the body of the
+work would still represent a stage in his opinions anterior to the
+ADVANCEMENT OF LEARNING.
+
+I have felt some doubt whether in printing this fragment, I should
+follow the example of Stephens, who gave it exactly as he found it;
+or that of later editors, who have altered the order of the chapters
+so as to make it agree with the numbers.  The latter plan will
+perhaps, upon the whole, be the more convenient.  There can he little
+doubt that the numbers of the chapters indicate the order in which
+Bacon meant them to be read; and if any one wishes to compare it with
+the order in which they seem to have been written, he has only to
+look at Bacon's table of contents, which was made with reference to
+the transcript, and which I give unaltered, except as to the spelling.
+
+of the Interpretation of Nature with the Annotations of a few
+fragments of the first book, viz.
+
+1. The first chapter entire. {Of the ends and limits of knowledge.}
+
+2. A portion of the 11th chapter. {Of the scale.}
+
+3. A small portion of the 9th chapter {being an Inducement to the
+Inventory.}
+
+4. A small portion of the 10th chapter {being the preface to the
+Inventory.}
+
+5. A small portion of the 16th chapter {being a preface to the inward
+elenches of the mind.}
+
+6. A small portion of the 4th chapter. {Of the impediments of
+knowledge in general.}
+
+7. A small portion of the 5th chapter. {Of the diversion of wits.}
+
+8. The 6th chapter entire. {Of}
+
+9. A portion of the 7th chapter.
+
+10. The 8th chapter entire.
+
+11. Another portion of the 9th chapter.
+
+12. The Abridgment of the 12. 13. 14. 15. 16. 17. 18. 19. 21. 22. 25.
+26th chapters of the first book.
+
+13. The first chapter of {the} a book of the same argument written in
+Latin and destined {for} to be {traditionary} separate and not public.
+
+None of the Annotations of Stella are set down in these fragments.
+
+
+[The title] is written in the transcriber's hand: all that follows in
+Bacon's.  The words between brackets have a line drawn through them.
+For an exact facsimile of the whole [see Contents pages 1 and 2].
+
+[13.] refers to the first chapter of the TEMPORIS PARTUS MASCULUS;
+which follows in the manuscript volume, but not here.  It is
+important as bearing upon the date of that fragment.
+
+
+
+
+
+
+
+VALERIUS TERMINUS: OF THE INTERPRETATION OF NATURE
+
+(by Sir Francis Bacon)
+
+
+
+
+CAP. 1.
+
+OF THE LIMITS AND END OF KNOWLEDGE.
+
+
+In the divine nature both religion and philosophy hath acknowledged
+goodness in perfection, science or providence comprehending all
+things, and absolute sovereignty or kingdom.  In aspiring to the
+throne of power the angels transgressed and fell, in presuming to
+come within the oracle of knowledge man transgressed and fell; but in
+pursuit towards the similitude of God's goodness or love (which is
+one thing, for love is nothing else but goodness put in motion or
+applied) neither man or spirit ever hath transgressed, or shall
+transgress.
+
+The angel of light that was, when he presumed before his fall, said
+within himself, I WILL ASCEND AND BE LIKE UNTO THE HIGHEST; not God,
+but the highest.  To be like to God in goodness, was no part of his
+emulation; knowledge, being in creation an angel of light, was not
+the want which did most solicit him; only because he was a minister
+he aimed at a supremacy; therefore his climbing or ascension was
+turned into a throwing down or precipitation.
+
+Man on the other side, when he was tempted before he fell, had
+offered unto him this suggestion, THAT HE SHOULD BE LIKE UNTO GOD.
+But how?  Not simply, but in this part, KNOWING GOOD AND EVIL. For
+being in his creation invested with sovereignty of all inferior
+creatures, he was not needy of power or dominion; but again, being a
+spirit newly inclosed in a body of earth, he was fittest to be
+allured with appetite of light and liberty of knowledge; therefore
+this approaching and intruding into God's secrets and mysteries was
+rewarded with a further removing and estranging from God's presence.
+But as to the goodness of God, there is no danger in contending or
+advancing towards a similitude thereof, as that which is open and
+propounded to our imitation.  For that voice (whereof the heathen and
+all other errors of religion have ever confessed that it sounds not
+like man), LOVE YOUR ENEMIES; BE YOU LIKE UNTO YOUR HEAVENLY FATHER,
+THAT SUFFERETH HIS RAIN TO FALL BOTH UPON THE JUST AND THE UNJUST,
+doth well declare, that we can in that point commit no excess; so
+again we find it often repeated in the old law, BE YOU HOLY AS I AM
+HOLY; and what is holiness else but goodness, as we consider it
+separate and guarded from all mixture and all access of evil?
+
+Wherefore seeing that knowledge is of the number of those things
+which are to be accepted of with caution and distinction; being now
+to open a fountain, such as it is not easy to discern where the
+issues and streams thereof will take and fall; I thought it good and
+necessary in the first place to make a strong and sound head or bank
+to rule and guide the course of the waters; by setting down this
+position or firmament, namely, THAT ALL KNOWLEDGE IS TO BE LIMITED BY
+RELIGION, AND TO BE REFERRED TO USE AND ACTION.
+
+For if any man shall think by view and inquiry into these sensible
+and material things, to attain to any light for the revealing of the
+nature or will of God, he shall dangerously abuse himself.  It is
+true that the contemplation of the creatures of God hath for end (as
+to the natures of the creatures themselves) knowledge, but as to the
+nature of God, no knowledge, but wonder; which is nothing else but
+contemplation broken off; or losing itself.  Nay further, as it was
+aptly said by one of Plato's school THE SENSE OF MAN RESEMBLES THE
+SUN, WHICH OPENETH AND REVEALETH THE TERRESTRIAL GLOBE, BUT OBSCURETH
+AND CONCEALETH THE CELESTIAL; so doth the sense discover natural
+things, but darken and shut up divine.  And this appeareth
+sufficiently in that there is no proceeding in invention of knowledge
+but by similitude; and God is only self-like, having nothing in
+common with any creature, otherwise than as in shadow and trope.
+Therefore attend his will as himself openeth it, and give unto faith
+that which unto faith belongeth; for more worthy it is to believe
+than to think or know, considering that in knowledge (as we now are
+capable of it) the mind suffereth from inferior natures; but in all
+belief it suffereth from a spirit which it holdeth superior and more
+authorised than itself.
+
+To conclude, the prejudice hath been infinite that both divine and
+human knowledge hath received by the intermingling and tempering of
+the one with the other; as that which hath filled the one full of
+heresies, and the other full of speculative fictions and vanities.
+
+But now there are again which in a contrary extremity to those which
+give to contemplation an overlarge scope, do offer too great a
+restraint to natural and lawful knowledge, being unjustly jealous
+that every reach and depth of knowledge wherewith their conceits have
+not been acquainted, should be too high an elevation of man's wit,
+and a searching and ravelling too far into God's secrets; an opinion
+that ariseth either of envy (which is proud weakness and to be
+censured and not confuted), or else of a deceitful simplicity.  For
+if they mean that the ignorance of a second cause doth make men more
+devoutly to depend upon the providence of God, as supposing the
+effects to come immediately from his hand, I demand of them, as Job
+demanded of his friends, WILL YOU LIE FOR GOD AS MAN WILL FOR MAN TO
+GRATIFY HIM?  But if any man without any sinister humour doth indeed
+make doubt that this digging further and further into the mine of
+natural knowledge is a thing without example and uncommended in the
+Scriptures, or fruitless; let him remember and be instructed; for
+behold it was not that pure light of natural knowledge, whereby man
+in paradise was able to give unto every living creature a name
+according to his propriety, which gave occasion to the fall; but it
+was an aspiring desire to attain to that part of moral knowledge
+which defineth of good and evil, whereby to dispute God's
+commandments and not to depend upon the revelation of his will, which
+was the original temptation.  And the first holy records, which
+within those brief memorials of things which passed before the flood
+entered few things as worthy to be registered but only lineages and
+propagations, yet nevertheless honour the remembrance of the inventor
+both of music and works in metal.  Moses again (who was the reporter)
+is said to have been seen in all the Egyptian learning, which nation
+was early and leading in matter of knowledge.  And Salomon the king,
+as out of a branch of his wisdom extraordinarily petitioned and
+granted from God, is said to have written a natural history of all
+that is green from the cedar to the moss, (which is but a rudiment
+between putrefaction and an herb,) and also of all that liveth and
+moveth.  And if the book of Job be turned over, it will be found to
+have much aspersion of natural philosophy.  Nay, the same Salomon the
+king affirmeth directly that the glory of God IS TO CONCEAL A THING,
+BUT THE GLORY OF THE KING IS TO FIND IT OUT, as if according to the
+innocent play of children the divine Majesty took delight to hide his
+works, to the end to have them found out; for in naming the king he
+intendeth man, taking such a condition of man as hath most excellency
+and greatest commandment of wits and means, alluding also to his own
+person, being truly one of those clearest burning lamps, whereof
+himself speaketh in another place, when he saith THE SPIRIT OF MAN IS
+AS THE LAMB, OF GOD, WHEREWITH HE SEARCHETH ALL INWARDNESS; which
+nature of the soul the same Salomon holding precious and inestimable,
+and therein conspiring with the affection of Socrates who scorned the
+pretended learned men of his time for raising great benefit of their
+learning (whereas Anaxagoras contrariwise and divers others being
+born to ample patrimonies decayed them in contemplation), delivereth
+it in precept yet remaining, BUY THE TRUTH, AND SELL IT NOT; AND SO
+OF WISDOM AND KNOWLEDGE.
+
+And lest any man should retain a scruple as if this thirst of
+knowledge were rather an humour of the mind than an emptiness or want
+in nature and an instinct from God, the same author defineth of it
+fully, saying, GOD HATH MADE EVERY THING IN BEAUTY ACCORDING TO
+SEASON; ALSO HE HATH SET THE WORLD IN MAN'S HEART, YET CAN HE NOT
+FIND OUT THE WORK WHICH GOD WORKETH FROM THE BEGINNING TO THE END:
+declaring not obscurely that God hath framed the mind of man as a
+glass capable of the image of the universal world, joying to receive
+the signature thereof as the eye is of light, yea not only satisfied
+in beholding the variety of things and vicissitude of times, but
+raised also to find out and discern those ordinances and decrees
+which throughout all these changes are infallibly observed.  And
+although the highest generality of motion or summary law of nature
+God should still reserve within his own curtain, yet many and noble
+are the inferior and secondary operations which are within man's
+sounding.  This is a thing which I cannot tell whether I may so
+plainly speak as truly conceive, that as all knowledge appeareth to
+be a plant of God's own planting, so it may seem the spreading and
+flourishing or at least the bearing and fructifying of this plant, by
+a providence of God, nay not only by a general providence but by a
+special prophecy, was appointed to this autumn of the world: for to
+my understanding it is not violent to the letter, and safe now after
+the event, so to interpret that place in the prophecy of Daniel where
+speaking of the latter times it is said, MANY SHALL PASS TO AND FRO,
+AND SCIENCE SHALL BE INCREASED; as if the opening of the world by
+navigation and commerce and the further discovery of knowledge should
+meet in one time or age.
+
+But howsoever that be, there are besides the authorities of
+Scriptures before recited, two reasons of exceeding great weight and
+force why religion should dearly protect all increase of natural
+knowledge: the one, because it leadeth to the greater exaltation of
+the glory of God; for as the Psalms and other Scriptures do often
+invite us to consider and to magnify the great and wonderful works of
+God, so if we should rest only in the contemplation of those shews
+which first offer themselves to our senses, we should do a like
+injury to the majesty of God, as if we should judge of the store of
+some excellent jeweler by that only which is set out to the street in
+his shop.  The other reason is, because it is a singular help and a
+preservative against unbelief and error; for, saith our Saviour, YOU
+ERR, NOT KNOWING THE SCRIPTURES NOR THE POWER OF GOD; laying before
+us two books or volumes to study if we will be secured from error;
+first the Scriptures revealing the will of God, and then the
+creatures expressing his power; for that latter book will certify us
+that nothing which the first teacheth shall be thought impossible.
+And most sure it is, and a true conclusion of experience, that a
+little natural philosophy inclineth the mind to atheism, but a
+further proceeding bringeth the mind back to religion.
+
+To conclude then, let no man presume to check the liberality of God's
+gifts, who, as was said, HATH SET THE WORLD IN MAN'S HEART. So as
+whatsoever is not God but parcel of the world, he hath fitted it to
+the comprehension of man's mind, if man will open and dilate the
+powers of his understanding as he may.
+
+But yet evermore it must be remembered that the least part of
+knowledge passed to man by this so large a charter from God must be
+subject to that use for which God hath granted it; which is the
+benefit and relief of the state and society of man; for otherwise all
+manner of knowledge becometh malign and serpentine, and therefore as
+carrying the quality of the serpent's sting and malice it maketh the
+mind of man to swell; as the Scripture saith excellently, knowledge
+bloweth up, but charity buildeth up.  And again the same author doth
+notably disavow both power and knowledge such as is not dedicated to
+goodness or love, for saith he, IF I HAVE ALL FAITH SO AS I COULD
+REMOVE MOUNTAINS, (there is power active,) IF I RENDER MY BODY TO THE
+FIRE, (there is power passive,) IF I SPEAK WITH THE TONGUES OF MEN
+AND ANGELS, (there is knowledge, for language is but the conveyance
+of knowledge,) ALL WERE NOTHING.
+
+And therefore it is not the pleasure of curiosity, nor the quiet of
+resolution, nor the raising of the spirit, nor victory of wit, nor
+faculty of speech, nor lucre of profession, nor ambition of honour or
+fame, nor inablement for business, that are the true ends of
+knowledge; some of these being more worthy than other, though all
+inferior and degenerate: but it is a restitution and reinvesting (in
+great part) of man to the sovereignty and power (for whensoever he
+shall be able to call the creatures by their true names he shall
+again command them) which he had in his first state of creation.  And
+to speak plainly and clearly, it is a discovery of all operations and
+possibilities of operations from immortality (if it were possible) to
+the meanest mechanical practice.  And therefore knowledge that
+tendeth but to satisfaction is but as a courtesan, which is for
+pleasure and not for fruit or generation.  And knowledge that tendeth
+to profit or profession or glory is but as the golden ball thrown
+before Atalanta, which while she goeth aside and stoopeth to take up
+she hindereth the race.  And knowledge referred to some particular
+point of use is but as Harmodius which putteth down one tyrant, and
+not like Hercules who did perambulate the world to suppress tyrants
+and giants and monsters in every part.  It is true, that in two
+points the curse is peremptory and not to be removed; the one that
+vanity must be the end in all human effects, eternity being resumed,
+though the revolutions and periods may be delayed.  The other that
+the consent of the creature being now turned into reluctation, this
+power cannot otherwise be exercised and administered but with labour,
+as well in inventing as in executing; yet nevertheless chiefly that
+labour and travel which is described by the sweat of the brows more
+than of the body; that is such travel as is joined with the working
+and discursion of the spirits in the brain: for as Salomon saith
+excellently, THE FOOL PUTTETH TO MORE STRENGTH, BUT THE WISE MAN
+CONSIDERETH WHICH WAY, signifying the election of the mean to be more
+material than the multiplication of endeavour.  It is true also that
+there is a limitation rather potential than actual, which is when the
+effect is possible, but the time or place yieldeth not the matter or
+basis whereupon man should work.  But notwithstanding these precincts
+and bounds, let it be believed, and appeal thereof made to Time,
+(with renunciation nevertheless to all the vain and abusing promises
+of Alchemists and Magicians, and such like light, idle, ignorant,
+credulous, and fantastical wits and sects,) that the new-found world
+of land was not greater addition to the ancient continent than there
+remaineth at this day a world of inventions and sciences unknown,
+having respect to those that are known, with this difference that the
+ancient regions of knowledge will seem as barbarous compared with the
+new, as the new regions of people seem barbarous compared to many of
+the old.
+
+The dignity of this end (of endowment of man's life with new
+commodities) appeareth by the estimation that antiquity made of such
+as guided thereunto.  For whereas founders of states, lawgivers,
+extirpers of tyrants, fathers of the people, were honoured but with
+the titles of Worthies or Demigods, inventors were ever consecrated
+amongst the Gods themselves.  And if the ordinary ambitions of men
+lead them to seek the amplification of their own power in their
+countries, and a better ambition than that hath moved men to seek the
+amplification of the power of their own countries amongst other
+nations, better again and more worthy must that aspiring be which
+seeketh the amplification of the power and kingdom of mankind over
+the world; the rather because the other two prosecutions are ever
+culpable of much perturbation and injustice; but this is a work truly
+divine, which cometh IN AURA LENI without noise or observation.
+
+The access also to this work hath been by that port or passage, which
+the divine Majesty (who is unchangeabIe in his ways) doth infallibly
+continue and observe; that is the felicity wherewith he hath blessed
+an humility of mind, such as rather laboureth to spell and so by
+degrees to read in the volumes of his creatures, than to solicit and
+urge and as it were to invocate a man's own spirit to divine and give
+oracles unto him.  For as in the inquiry of divine truth, the pride
+of man hath ever inclined to leave the oracles of God's word and to
+vanish in the mixture of their own inventions; so in the self-same
+manner, in inquisition of nature they have ever left the oracles of
+God's works, and adored the deceiving and deformed imagery which the
+unequal mirrors of their own minds have represented unto them.  Nay
+it is a point fit and necessary in the front and beginning of this
+work without hesitation or reservation to be professed, that it is no
+less true in this human kingdom of knowledge than in God's kingdom of
+heaven, that no man shall enter into it EXCEPT HE BECOME FIRST AS A
+LITTLE CHILD.
+
+
+
+
+CAP. 4.
+
+OF THE IMPEDIMENTS OF KNOWLEDGE, BEING THE 4TH CHAPTER, THE PREFACE
+ONLY OF IT.
+
+
+In some things it is more hard to attempt than to achieve, which
+falleth out when the difficulty is not so much in the matter or
+subject, as it is in the crossness and indisposition of the mind of
+man to think of any such thing, to will or to resolve it.  And
+therefore Titus Livius in his declamatory digression wherein he doth
+depress and extenuate the honour of Alexander's conquests saith,
+NIHIL ALIUD QUAM BENE AUSUS VANA CONTEMNERE: in which sort of things
+it is the manner of men first to wonder that any such thing should be
+possible, and after it is found out to wonder again how the world
+should miss it so long.  Of this nature I take to be the invention
+and discovery of knowledge, etc.
+
+THE IMPEDIMENTS WHICH HAVE BEEN IN THE TIMES, AND IN DIVERSION OF
+WITS, BEING THE 5TH CHAPTER, A SMALL FRAGMENT IN THE BEGINNING OF
+THAT CHAPTER.
+
+The encounters of the times have been nothing favourable and
+prosperous for the invention of knowledge; so as it is not only the
+daintiness of the seed to take, and the ill mixture and unliking of
+the ground to nourish or raise this plant, but the ill season also of
+the weather by which it hath been checked and blasted.  Especially in
+that the seasons have been proper to bring up and set forward other
+more hasty and indifferent plants, whereby this of knowledge bath
+been starved and overgrown; for in the descent of times always there
+hath been somewhat else in reign and reputation, which hath generally
+aliened and diverted wits and labours from that employment.
+
+For as for the uttermost antiquity which is like fame that muffles
+her head and tells tales, I cannot presume much of it; for I would
+not willingly imitate the manner of those that describe maps, which
+when they come to some far countries whereof they have no knowledge,
+set down how there be great wastes and deserts there: so I am not apt
+to affirm that they knew little, because what they knew is little
+known to us.  But if you will judge of them by the last traces that
+remain to us, you will conclude, though not so scornfully as
+Aristotle doth, that saith our ancestors were extreme gross, as those
+that came newly from being moulded out of the clay or some earthly
+substance; yet reasonably and probably thus, that it was with them in
+matter of knowledge but as the dawning or break of day.  For at that
+time the world was altogether home-bred, every nation looked little
+beyond their own confines or territories, and the world had no
+through lights then, as it hath had since by commerce and navigation,
+whereby there could neither be that contribution of wits one to help
+another, nor that variety of particulars for the correcting of
+customary conceits.
+
+And as there could be no great collection of wits of several parts or
+nations, so neither could there be any succession of wits of several
+times, whereby one might refine the other, in regard they had not
+history to any purpose.  And the manner of their traditions was
+utterly unfit and unproper for amplification of knowledge.  And again
+the studies of those times, you shall find, besides wars, incursions,
+and rapines, which were then almost every where betwixt states
+adjoining (the use of leagues and confederacies being not then known),
+were to populate by multitude of wives and generation, a thing at
+this day in the waster part of the West-Indies principally affected;
+and to build sometimes for habitation towns and cities, sometimes for
+fame and memory monuments, pyramids, colosses, and the like.  And if
+there happened to rise up any more civil wits; then would he found
+and erect some new laws, customs, and usages, such as now of late
+years, when the world was revolute almost to the like rudeness and
+obscurity, we see both in our own nation and abroad many examples of,
+as well in a number of tenures reserved upon men's lands, as in
+divers customs of towns and manors, being the devices that such wits
+wrought upon in such times of deep ignorance, etc.
+
+THE IMPEDIMENTS OF KNOWLEDGE FOR WANT OF A TRUE SUCCESSION OF WITS,
+AND THAT HITHERTO THE LENGTH OF ONE MAN'S LIFE HATH BEEN THE GREATEST
+MEASURE OF KNOWLEDGE, BEING THE 6TH CHAPTER, THE WHOLE CHAPTER.
+
+In arts mechanical the first device comes shortest and time addeth
+and perfecteth.  But in sciences of conceit the first author goeth
+furthest and time leeseth and corrupteth.  Painting, artillery,
+sailing, and the like, grossly managed at first, by time accommodate
+and refined.  The philosophies and sciences of Aristotle, Plato,
+Democritus, Hippocrates, of most vigour at first, by time degenerated
+and imbased.  In the former many wits and industries contributed in
+one: In the latter many men's wits spent to deprave the wit of one.
+
+The error is both in the deliverer and in the receiver.  He that
+delivereth knowledge desireth to deliver it in such form as may be
+soonest believed, and not as may be easiliest examined.  He that
+receiveth knowledge desireth rather present satisfaction than
+expectant search, and so rather not to doubt than not to err.  Glory
+maketh the author not to lay open his weakness, and sloth maketh the
+disciple not to know his strength.
+
+Then begin men to aspire to the second prizes; to be a profound
+interpreter and commenter, to be a sharp champion and defender, to be
+a methodical compounder and abridger.  And this is the unfortunate
+succession of wits which the world hath yet had, whereby the
+patrimony of all knowledge goeth not on husbanded or improved, but
+wasted and decayed.  For knowledge is like a water that will never
+arise again higher than the level from which it fell; and therefore
+to go beyond Aristotle by the light of Aristotle is to think that a
+borrowed light can increase the original light from whom it is taken.
+So then no true succession of wits having been in the world, either
+we must conclude that knowledge is but a task for one man's life, and
+then vain was the complaint that LIFE IS SHORT, AND ART IS LONG: or
+else, that the knowledge that now is, is but a shrub, and not that
+tree which is never dangerous, but where it is to the purpose of
+knowing Good and Evil; which desire ever riseth upon an appetite to
+elect and not to obey, and so containeth in it a manifest defection.
+
+
+
+
+CAP. 7.
+
+
+THAT THE PRETENDED SUCCESSION OF WITS HATH BEEN EVIL PLACED, FOR
+ASMUCH AS AFTER VARIETY OF SECTS AND OPINIONS, THE MOST POPULAR AND
+NOT THE TRUEST PREVAILETH AND WEARETH OUT THE REST; BEING THE 7TH
+CHAPTER; A FRAGMENT.
+
+
+It is sensible to think that when men enter first into search and
+inquiry, according to the several frames and compositions of their
+understanding they light upon different conceits, and so all opinions
+and doubts are beaten over, and then men having made a taste of all
+wax weary of variety, and so reject the worst and hold themselves to
+the best, either some one if it be eminent, or some two or three if
+they be in some equality, which afterwards are received and carried
+on, and the rest extinct.
+
+But truth is contrary, and that time is like a river which carrieth
+down things which are light and blown up, and sinketh and drowneth
+that which is sad and weighty.  For howsoever governments have
+several forms, sometimes one governing, sometimes few, sometimes the
+multitude; yet the state of knowledge is ever a DEMOCRATIE, and that
+prevaileth which is most agreeable to the senses and conceits of
+people.  As for example there is no great doubt but he that did put
+the beginnings of things to be SOLID, VOID, AND MOTION TO THE CENTRE,
+was in better earnest than he that put MATTER, FORM, AND SHIFT; or he
+that put the MIND, MOTION, AND MATTER. For no man shall enter into
+inquisition of nature, but shall pass by that opinion of Democritus,
+whereas he shall never come near the other two opinions, but leave
+them aloof for the schools and table-talk.  Yet those of Aristotle
+and Plato, because they be both agreeable to popular sense, and the
+one was uttered with subtilty and the spirit of contradiction, and
+the other with a stile of ornament and majesty, did hold out, and the
+other gave place, etc.
+
+
+
+
+CAP. 8.
+
+
+OF THE IMPEDIMENTS OF KNOWLEDGE IN HANDLING IT BY PARTS, AND IN
+SLIPPING OFF PARTICULAR SCIENCES FROM THE ROOT AND STOCK OF UNIVERSAL
+KNOWLEDGE, BEING THE 8TH CHAPTER, THE WHOLE CHAPTER.
+
+
+Cicero, the orator, willing to magnify his own profession, and
+thereupon spending many words to maintain that eloquence was not a
+shop of good words and elegancies but a treasury and receipt of all
+knowledges, so far forth as may appertain to the handling and moving
+of the minds and affections of men by speech, maketh great complaint
+of the school of Socrates; that whereas before his time the same
+professors of wisdom in Greece did pretend to teach an universal
+SAPIENCE and knowledge both of matter and words, Socrates divorced
+them and withdrew philosophy and left rhetoric to itself, which by
+that destitution became but a barren and unnoble science.  And in
+particular sciences we see that if men fall to subdivide their
+labours, as to be an oculist in physic, or to be perfect in some one
+title of the law, or the like, they may prove ready and subtile, but
+not deep or sufficient, no not in that subject which they do
+particularly attend, because of that consent which it hath with the
+rest.  And it is a matter of common discourse of the chain of
+sciences how they are linked together, insomuch as the Grecians, who
+had terms at will, have fitted it of a name of CIRCLE LEARNING.
+Nevertheless I that hold it for a great impediment towards the
+advancement and further invention of knowledge, that particular arts
+and sciences have been disincorporated from general knowledge, do not
+understand one and the same thing which Cicero's discourse and the
+note and conceit of the Grecians in their word CIRCLE LEARNING do
+intend.  For I mean not that use which one science hath of another
+for ornament or help in practice, as the orator hath of knowledge of
+affections for moving, or as military science may have use of
+geometry for fortifications; but I mean it directly of that use by
+way of supply of light and information which the particulars and
+instances of one science do yield and present for the framing or
+correcting of the axioms of another science in their very truth and
+notion.  And therefore that example of OCULISTS and TITLE LAWYERS
+doth come nearer my conceit than the other two; for sciences
+distinguished have a dependence upon universal knowledge to be
+augmented and rectified by the superior light thereof, as well as the
+parts and members of a science have upon the MAXIMS of the same
+science, and the mutual light and consent which one part receiveth of
+another.  And therefore the opinion of Copernicus in astronomy, which
+astronomy itself cannot correct because it is not repugnant to any of
+the appearances, yet natural philosophy doth correct.  On the other
+side if some of the ancient philosophers had been perfect in the
+observations of astronomy, and had called them to counsel when they
+made their principles and first axioms, they would never have divided
+their philosophy as the Cosmographers do their descriptions by globes,
+making one philosophy for heaven and another for under heaven, as in
+effect they do.
+
+So if the moral philosophers that have spent such an infinite
+quantity of debate touching Good and the highest good, had cast their
+eye abroad upon nature and beheld the appetite that is in all things
+to receive and to give; the one motion affecting preservation and the
+other multiplication; which appetites are most evidently seen in
+living creatures in the pleasure of nourishment and generation; and
+in man do make the aptest and most natural division of all his
+desires, being either of sense of pleasure or sense of power; and in
+the universal frame of the world are figured, the one in the beams of
+heaven which issue forth, and the other in the lap of the earth which
+takes in: and again if they had observed the motion of congruity or
+situation of the parts in respect of the whole, evident in so many
+particulars; and lastly if they had considered the motion (familiar
+in attraction of things) to approach to that which is higher in the
+same kind; when by these observations so easy and concurring in
+natural philosophy, they should have found out this quaternion of
+good, in enjoying or fruition, effecting or operation, consenting or
+proportion, and approach or assumption; they would have saved and
+abridged much of their long and wandering discourses of pleasure,
+virtue, duty, and religion.  So likewise in this same logic and
+rhetoric, or arts of argument and grace of speech, if the great
+masters of them would but have gone a form lower, and looked but into
+the observations of Grammar concerning the kinds of words, their
+derivations, deflexions, and syntax; specially enriching the same
+with the helps of several languages, with their differing proprieties
+of words, phrases, and tropes; they might have found out more and
+better footsteps of common reason, help of disputation, and
+advantages of cavillation, than many of these which they have
+propounded.  So again a man should be thought to dally, if he did
+note how the figures of rhetoric and music are many of them the same.
+The repetitions and traductions in speech and the reports and
+hauntings of sounds in music are the very same things.  Plutarch hath
+almost made a book of the Lacedaemonian kind of jesting, which joined
+ever pleasure with distaste.  SIR, (saith a man of art to Philip king
+of Macedon when he controlled him in his faculty,) GOD FORBID YOUR
+FORTUNE SHOULD BE SUCH AS TO KNOW THESE THINGS BETTER THAN I. In
+taxing his ignorance in his art he represented to him the perpetual
+greatness of his fortune, leaving him no vacant time for so mean a
+skill.  Now in music it is one of the ordinariest flowers to fall
+from a discord or hard tune upon a sweet accord.  The figure that
+Cicero and the rest commend as one of the best points of elegancy,
+which is the fine checking of expectation, is no less well known to
+the musicians when they have a special grace in flying the close or
+cadence.  And these are no allusions but direct communities, the same
+delights of the mind being to be found not only in music, rhetoric,
+but in moral philosophy, policy, and other knowledges, and that
+obscure in the one, which is more apparent in the other, yea and that
+discovered in the one which is not found at all in the other, and so
+one science greatly aiding to the invention and augmentation of
+another.  And therefore without this intercourse the axioms of
+sciences will fall out to be neither full nor true; but will be such
+opinions as Aristotle in some places doth wisely censure, when he
+saith THESE ARE THE OPINIONS OF PERSONS THAT HAVE RESPECT BUT TO A
+FEW THINGS. So then we see that this note leadeth us to an
+administration of knowledge in some such order and policy as the king
+of Spain in regard of his great dominions useth in state; who though
+he hath particular councils for several countries and affairs, yet
+hath one council of State or last resort, that receiveth the
+advertisements and certificates from all the rest.  Hitherto of the
+diversion, succession, and conference of wits.
+
+
+
+
+CAP. 9.
+
+
+THAT THE END AND SCOPE OF KNOWLEDGE HATH BEEN GENERALLY MISTAKEN, AND
+THAT MEN WERE NEVER WELL ADVISED WHAT IT WAS THEY SOUGHT; BEING THE
+9TH CHAPTER, WHEREOF A FRAGMENT (WHICH IS THE END OF THE SAME
+CHAPTER) IS BEFORE.
+
+
+It appeareth then how rarely the wits and labours of men have been
+converted to the severe and original inquisition of knowledge; and in
+those who have pretended, what hurt hath been done by the affectation
+of professors and the distraction of such as were no professors; and
+how there was never in effect any conjunction or combination of wits
+in the first and inducing search, but that every man wrought apart,
+and would either have his own way or else would go no further than
+his guide, having in the one case the honour of a first, and in the
+other the ease of a second; and lastly how in the descent and
+continuance of wits and labours the succession hath been in the most
+popular and weak opinions, like unto the weakest natures which many
+times have most children, and in them also the condition of
+succession hath been rather to defend and to adorn than to add; and
+if to add, yet that addition to be rather a refining of a part than
+an increase of the whole.  But the impediments of time and accidents,
+though they have wrought a general indisposition, yet are they not so
+peremptory and binding as the internal impediments and clouds in the
+mind and spirit of man, whereof it now followeth to speak.
+
+The Scripture speaking of the worst sort of error saith, ERRARE FECIT
+COS IN INVIO ET NON IN VIA. For a man may wander in the way, by
+rounding up and down.  But if men have failed in their very direction
+and address that error will never by good fortune correct itself.
+Now it hath fared with men in their contemplations as Seneca saith it
+fareth with them in their actions, DE PARTIBUS VITAE QUISQUE
+DELIBERAT, DE SUMMA NEMO. A course very ordinary with men who receive
+for the most part their final ends from the inclination of their
+nature, or from common example and opinion, never questioning or
+examining them, nor reducing them to any clear certainty; and use
+only to call themselves to account and deliberation touching the
+means and second ends, and thereby set themselves in the right way to
+the wrong place.  So likewise upon the natural curiosity and desire
+to know, they have put themselves in way without foresight or
+consideration of their journey's end.
+
+For I find that even those that have sought knowledge for itself, and
+not for benefit or ostentation or any practical enablement in the
+course of their life, have nevertheless propounded to themselves a
+wrong mark, namely satisfaction (which men call truth) and not
+operation.  For as in the courts and services of princes and states
+it is a much easier matter to give satisfaction than to do the
+business; so in the inquiring of causes and reasons it is much easier
+to find out such causes as will satisfy the mind of man and quiet
+objections, than such causes as will direct him and give him light to
+new experiences and inventions.  And this did Celsus note wisely and
+truly, how that the causes which are in use and whereof the
+knowledges now received do consist, were in time minors and
+subsequents to the knowledge of the particulars out of which they
+were induced and collected; and that it was not the light of those
+causes which discovered particulars, but only the particulars being
+first found, men did fall on glossing and discoursing of the causes;
+which is the reason why the learning that now is hath the curse of
+barrenness, and is courtesanlike, for pleasure, and not for fruit.
+Nay to compare it rightly, the strange fiction of the poets of the
+transformation of Scylla seemeth to be a lively emblem of this
+philosophy and knowledge; a fair woman upwards in the parts of show,
+but when you come to the parts of use and generation, Barking
+Monsters; for no better are the endless distorted questions, which
+ever have been, and of necessity must be, the end and womb of such
+knowledge.
+
+But yet nevertheless here I may be mistaken, by reason of some which
+have much in their pen the referring sciences to action and the use
+of man, which mean quite another matter than I do.  For they mean a
+contriving of directions and precepts for readiness of practice,
+which I discommend not, so it be not occasion that some quantity of
+the science be lost; for else it will be such a piece of husbandry as
+to put away a manor lying somewhat scattered, to buy in a close that
+lieth handsomely about a dwelling.  But my intention contrariwise is
+to increase and multiply the revenues and possessions of man, and not
+to trim up only or order with conveniency the grounds whereof he is
+already stated.  Wherefore the better to make myself understood that
+I mean nothing less than words, and directly to demonstrate the point
+which we are now upon, that is, what is the true end, scope, or
+office of knowledge, which I have set down to consist not in any
+plausible, delectable, reverend, or admired discourse, or any
+satisfactory arguments, but in effecting and working, and in
+discovery of particulars not revealed before for the better endowment
+and help of man's life; I have thought good to make as it were a
+Kalendar or Inventory of the wealth, furniture, or means of man
+according to his present estate, as far as it is known; which I do
+not to shew any universality of sense or knowledge, and much less to
+make a satire of reprehension in respect of wants and errors, but
+partly because cogitations new had need of some grossness and
+inculcation to make them perceived; and chiefly to the end that for
+the time to come (upon the account and state now made and cast up) it
+may appear what increase this new manner of use and administration of
+the stock (if it be once planted) shall bring with it hereafter; and
+for the time present (in case I should be prevented by death to
+propound and reveal this new light as I purpose) yet I may at the
+least give some awaking note both of the wants in man's present
+condition and the nature of the supplies to be wished; though for
+mine own part neither do I much build upon my present anticipations,
+neither do I think ourselves yet learned or wise enough to wish
+reasonably: for as it asks some knowledge to demand a question not
+impertinent, so it asketh some sense to make a wish not absurd.
+
+
+
+
+CAP. 10.
+
+
+THE INVENTORY, OR AN ENUMERATION AND VIEW OF INVENTIONS ALREADY
+DISCOVERED AND IN USE, TOGETHER WITH A NOTE OF THE WANTS AND THE
+NATURE OF THE SUPPLIES, BEING THE 10TH CHAPTER; AND THIS A SMALL
+FRAGMENT THEREOF, BEING THE PREFACE TO THE INVENTORY.
+
+
+The plainest method and most directly pertinent to this intention,
+will be to make distribution of sciences, arts, inventions, works,
+and their portions, according to the use and tribute which they yield
+and render to the conditions of man's life, and under those several
+uses, being as several offices of provisions, to charge and tax what
+may be reasonably exacted or demanded; not guiding ourselves neither
+by the poverty of experiences and probations, nor according to the
+vanity of credulous imaginations; and then upon those charges and
+taxations to distinguish and present, as it were in several columns,
+what is extant and already found, and what is defective and further
+to be provided.  Of which provisions, because in many of them after
+the manner of slothful and faulty officers and accomptants it will be
+returned (by way of excuse) that no such are to be had, it will be
+fit to give some light of the nature of the supplies, whereby it will
+evidently appear that they are to be compassed and procured.  And yet
+nevertheless on the other side again it will be as fit to check and
+control the vain and void assignations and gifts whereby certain
+ignorant, extravagant, and abusing wits have pretended to indue the
+state of man with wonders, differing as much from truth in nature as
+Caesar's Commentaries differeth from the acts of King Arthur or Huon
+of Bourdeaux in story.  For it is true that Caesar did greater things
+than those idle wits had the audacity to feign their supposed
+worthies to have done; but he did them not in that monstrous and
+fabulous manner.
+
+
+
+
+CAP. 11.
+
+
+THE CHAPTER IMMEDIATELY FOLLOWING THE INVENTORY; BEING THE 11TH IN
+ORDER; A PART THEREOF.
+
+
+It appeareth then what is now in proposition not by general
+circumlocution but by particular note.  No former philosophy varied
+in terms or method; no new PLACET or speculation upon particulars
+already known; no referring to action by any manual of practice; but
+the revealing and discovering of new inventions and operations.  This
+to be done without the errors and conjectures of art, or the length
+or difficulties of experience; the nature and kinds of which
+inventions have been described as they could be discovered; for your
+eye cannot pass one kenning without further sailing; only we have
+stood upon the best advantages of the notions received, as upon a
+mount, to shew the knowledges adjacent and confining.  If therefore
+the true end of knowledge not propounded hath bred large error, the
+best and perfectest condition of the same end not perceived will
+cause some declination.  For when the butt is set up men need not
+rove, but except the white be placed men cannot level.  This
+perfection we mean not in the worth of the effect, but in the nature
+of the direction; for our purpose is not to stir up men's hopes, but
+to guide their travels.  The fullness of direction to work and
+produce any effect consisteth in two conditions, certainty and
+liberty.  Certainty is when the direction is not only true for the
+most part, but infallible.  Liberty is when the direction is not
+restrained to some definite means, but comprehendeth all the means
+and ways possible; for the poet saith well SAPIENTIBUS UNDIQUE LATAE
+SUNT VIAE, and where there is the greatest plurality of change, there
+is the greatest singularity of choice.  Besides as a conjectural
+direction maketh a casual effect, so a particular and restrained
+direction is no less casual than an uncertain.  For those particular
+means whereunto it is tied may be out of your power or may be
+accompanied with an overvalue of prejudice; and so if for want of
+certainty in direction you are frustrated in success, for want of
+variety in direction you are stopped in attempt.  If therefore your
+direction be certain, it must refer you and point you to somewhat
+which, if it be present, the effect you seek will of necessity follow,
+else may you perform and not obtain.  If it be free, then must it
+refer you to somewhat which if it be absent the effect you seek will
+of necessity withdraw, else may you have power and not attempt.  This
+notion Aristotle had in light, though not in use.  For the two
+commended rules by him set down, whereby the axioms of sciences are
+precepted to be made convertible, and which the latter men have not
+without elegancy surnamed the one the rule of truth because it
+preventeth deceit, the other the rule of prudence because it freeth
+election, are the same thing in speculation and affirmation which we
+now observe.  An example will make my meaning attained, and yet
+percase make it thought that they attained it not.  Let the effect to
+be produced be Whiteness; let the first direction be that if air and
+water be intermingled or broken in small portions together, whiteness
+will ensue, as in snow, in the breaking of the waves of the sea and
+rivers, and the like.  This direction is certain, but very particular
+and restrained, being tied but to air and water.  Let the second
+direction be, that if air be mingled as before with any transparent
+body, such nevertheless as is uncoloured and more grossly transparent
+than air itself, that then etc. as glass or crystal, being beaten to
+fine powder, by the interposition of the air becometh white; the
+white of an egg being clear of itself, receiving air by agitation
+becometh white, receiving air by concoction becometh white; here you
+are freed from water, and advanced to a clear body, and still tied to
+air.  Let the third direction exclude or remove the restraint of an
+uncoloured body, as in amber, sapphires, etc. which beaten to fine
+powder become white; in wine and beer, which brought to froth become
+white.  Let the fourth direction exclude the restraint of a body more
+grossly transparent than air, as in flame, being a body compounded
+between air and a finer substance than air; which flame if it were
+not for the smoke, which is the third substance that incorporateth
+itself and dyeth the flame, would be more perfect white.  In all
+these four directions air still beareth a part.  Let the fifth
+direction then be, that if any bodies, both transparent but in an
+unequal degree, be mingled as before, whiteness will follow; as oil
+and water beaten to an ointment, though by settling the air which
+gathereth in the agitation be evaporate, yet remaineth white; and the
+powder of glass or crystal put into water, whereby the air giveth
+place, yet remaineth white, though not so perfect.  Now are you freed
+from air, but still you are tied to transparent bodies.  To ascend
+further by scale I do forbear, partly because it would draw on the
+example to an over-great length, but chiefly because it would open
+that which in this work I determine to reserve; for to pass through
+the whole history and observation of colours and objects visible were
+too long a digression; and our purpose is now to give an example of a
+free direction, thereby to distinguish and describe it; and not to
+set down a form of interpretation how to recover and attain it.  But
+as we intend not now to reveal, so we are circumspect not to mislead;
+and therefore (this warning being given) returning to our purpose in
+hand, we admit the sixth direction to be, that all bodies or parts of
+bodies which are unequal equally, that is in a simple proportion, do
+represent whiteness; we will explain this, though we induce it not.
+It is then to be understood, that absolute equality produceth
+transparence, inequality in simple order or proportion produceth
+whiteness, inequality in compound or respective order or proportion
+produceth all other colours, and absolute or orderless inequality
+produceth blackness; which diversity, if so gross a demonstration be
+needful, may be signified by four tables; a blank, a chequer, a fret,
+and a medley; whereof the fret is evident to admit great variety.
+Out of this assertion are satisfied a multitude of effects and
+observations, as that whiteness and blackness are most incompatible
+with transparence; that whiteness keepeth light, and blackness
+stoppeth light, but neither passeth it; that whiteness or blackness
+are never produced in rainbows, diamonds, crystals, and the like;
+that white giveth no dye, and black hardly taketh dye; that whiteness
+seemeth to have an affinity with dryness, and blackness with moisture;
+that adustion causeth blackness, and calcination whiteness; that
+flowers are generally of fresh colours, and rarely black, etc. All
+which I do now mention confusedly by way of derivation and not by way
+of induction.  This sixth direction, which I have thus explained, is
+of good and competent liberty for whiteness fixed and inherent, but
+not for whiteness fantastical or appearing, as shall be afterwards
+touched.  But first do you need a reduction back to certainty or
+verity; for it is not all position or contexture of unequal bodies
+that will produce colour; for AQUA FORTIS, oil of VITRIOL, etc. more
+manifestly, and many other substances more obscurely, do consist of
+very unequal parts, which yet are transparent and clear.  Therefore
+the reduction must be, that the bodies or parts of bodies so
+intermingled as before be of a certain grossness or magnitude; for
+the unequalities which move the sight must have a further dimension
+and quantity than those which operate many other effects.  Some few
+grains of saffron will give a tincture to a tun of water; but so many
+grains of civet will give a perfume to a whole chamber of air.  And
+therefore when Democritus (from whom Epicurus did borrow it) held
+that the position of the solid portions was the cause of colours, yet
+in the very truth of his assertion he should have added, that the
+portions are required to be of some magnitude.  And this is one cause
+why colours have little inwardness and necessitude with the nature
+and proprieties of things, those things resembling in colour which
+otherwise differ most, as salt and sugar, and contrariwise differing
+in colour which otherwise resemble most, as the white and blue
+violets, and the several veins of one agate or marble, by reason that
+other virtues consist in more subtile proportions than colours do;
+and yet are there virtues and natures which require a grosser
+magnitude than colours, as well as scents and divers other require a
+more subtile; for as the portion of a body will give forth scent
+which is too small to be seen, so the portion of a body will shew
+colours which is too small to be endued with weight; and therefore
+one of the prophets with great elegancy describing how all creatures
+carry no proportion towards God the creator, saith, THAT ALL THE
+NATIONS IN RESPECT OF HIM ARE LIKE THE DUST UPON THE BALANCE, which
+is a thing appeareth but weigheth not.  But to return, there resteth
+a further freeing of this sixth direction; for the clearness of a
+river or stream sheweth white at a distance, and crystalline glasses
+deliver the face or any other object falsified in whiteness, and long
+beholding the snow to a weak eye giveth an impression of azure rather
+than of whiteness.  So as for whiteness in apparition only and
+representation by the qualifying of the light, altering the
+INTERMEDIUM, or affecting the eye itself, it reacheth not.  But you
+must free your direction to the producing of such an incidence,
+impression, or operation, as may cause a precise and determinate
+passion of the eye; a matter which is much more easy to induce than
+that which we have passed through; but yet because it hath a full
+coherence both with that act of radiation (which hath hitherto been
+conceived and termed so unproperly and untruly by some an effluxion
+of spiritual species and by others an investing of the INTERMEDIUM
+with a motion which successively is conveyed to the eye) and with the
+act of sense, wherein I should likewise open that which I think good
+to withdraw, I will omit.  Neither do I contend but that this motion
+which I call the freeing of a direction, in the received philosophies
+(as far as a swimming anticipation could take hold) might be
+perceived and discerned; being not much other matter than that which
+they did not only aim at in the two rules of AXIOMS before remembered,
+but more nearly also in that which they term the form or formal
+cause, or that which they call the true difference; both which
+nevertheless it seemeth they propound rather as impossibilities and
+wishes than as things within the compass of human comprehension.  For
+Plato casteth his burden and saith THAT HE WILL REVERE HIM AS A GOD,
+THAT CAN TRULY DIVIDE AND DEFINE; which cannot be but by true forms
+and differences.  Wherein I join hands with him, confessing as much
+as yet assuming to myself little; for if any man call by the strength
+of his ANTICIPATIONS find out forms, I will magnify him with the
+foremost.  But as any of them would say that if divers things which
+many men know by instruction and observation another knew by
+revelation and without those means, they would take him for somewhat
+supernatural and divine; so I do acknowledge that if any man can by
+anticipations reach to that which a weak and inferior wit may attain
+to by interpretation, he cannot receive too high a title.  Nay I for
+my part do indeed admire to see how far some of them have proceeded
+by their ANTICIPATIONS; but how?  It is as I wonder at some blind men,
+to see what shift they make without their eye-sight; thinking with
+myself that if I were blind I could hardly do it.  Again Aristotle's
+school confesseth that there is no true knowledge but by causes, no
+true cause but the form, no true form known except one, which they
+are pleased to allow; and therefore thus far their evidence standeth
+with us, that both hitherto there hath been nothing but a shadow of
+knowledge, and that we propound now that which is agreed to be
+worthiest to be sought, and hardest to be found.  There wanteth now a
+part very necessary, not by way of supply but by way of caution; for
+as it is seen for the most part that the outward tokens and badges of
+excellency and perfection are more incident to things merely
+counterfeit than to that which is true, but for a meaner and baser
+sort; as a dubline is more like a perfect ruby than a spinel, and a
+counterfeit angel is made more like a true angel than if it were an
+angel coined of China gold; in like manner the direction carrieth a
+resemblance of a true direction in verity and liberty which indeed is
+no direction at all.  For though your direction seem to be certain
+and free by pointing you to a nature that is unseparable from the
+nature you inquire upon, yet if it do not carry you on a degree or
+remove nearer to action, operation, or light to make or produce, it
+is but superficial and counterfeit.  Wherefore to secure and warrant
+what is a true direction, though that general note I have given be
+perspicuous in itself (for a man shall soon cast with himself whether
+he be ever the nearer to effect and operate or no, or whether he have
+won but an abstract or varied notion) yet for better instruction I
+will deliver three particular notes of caution.  The first is that
+the nature discovered be more original than the nature supposed, and
+not more secondary or of the like degree; as to make a stone bright
+or to make it smooth it is a good direction to say, make it even; but
+to make a stone even it is no good direction to say, make it bright
+or make it smooth; for the rule is that the disposition of any thing
+referring to the state of it in itself or the parts, is more original
+than that which is relative or transitive towards another thing.  So
+evenness is the disposition of the stone in itself, but smooth is to
+the hand and bright to the eye, and yet nevertheless they all cluster
+and concur; and yet the direction is more unperfect, if it do appoint
+you to such a relative as is in the same kind and not in a diverse.
+For in the direction to produce brightness by smoothness, although
+properly it win no degree, and will never teach you any new
+particulars before unknown; yet by way of suggestion or bringing to
+mind it may draw your consideration to some particulars known but not
+remembered; as you shall sooner remember some practical means of
+making smoothness, than if you had fixed your consideration only upon
+brightness by making reflexion, as thus, make it such as you may see
+your face in it, this is merely secondary, and helpeth neither by way
+of informing nor by way of suggestion.  So if in the inquiry of
+whiteness you were directed to make such a colour as should be seen
+furthest in a dark light; here you are advanced nothing at all.  For
+these kinds of natures are but proprieties, effects, circumstances,
+concurrences, or what else you shall like to call them, and not
+radical and formative natures towards the nature supposed.  The
+second caution is that the nature inquired be collected by division
+before composition, or to speak more properly, by composition
+subaltern before you ascend to composition absolute, etc.
+
+
+
+OF THE INTERNAL AND PROFOUND ERRORS AND SUPERSTITIONS IN THE NATURE
+OF THE MIND, AND OF THE FOUR SORTS OF IDOLS OR FICTIONS WHICH OFFER
+THEMSELVES TO THE UNDERSTANDING IN THE INQUISITION OF KNOWLEDGE;
+BEING THE 16TH CHAPTER, AND THIS A SMALL FRAGMENT THEREOF, BEING A
+PREFACE TO THE INWARD ELENCHES OF THE MIND.
+
+The opinion of Epicurus that the gods were of human shape, was rather
+justly derided than seriously confuted by the other sects, demanding
+whether every kind of sensible creatures did not think their own
+figure fairest, as the horse, the bull, and the like, which found no
+beauty but in their own forms, as in appetite of lust appeared.  And
+the heresy of the Anthropomorphites was ever censured for a gross
+conceit bred in the obscure cells of solitary monks that never looked
+abroad.  Again the fable so well known of QUIS PINXIT LEONEM, doth
+set forth well that there is an error of pride and partiality, as
+well as of custom and familiarity.  The reflexion also from glasses
+so usually resembled to the imagery of the mind, every man knoweth to
+receive error and variety both in colour, magnitude, and shape,
+according to the quality of the glass.  But yet no use hath been made
+of these and many the like observations, to move men to search out
+and upon search to give true cautions of the native and inherent
+errors in the mind of man which have coloured and corrupted all his
+notions and impressions.
+
+I do find therefore in this enchanted glass four Idols or false
+appearances of several and distinct sorts, every sort comprehending
+many subdivisions: the first sort, I call idols of the NATION or
+TRIBE; the second, idols of the PALACE; the third, idols of the CAVE;
+and the fourth, idols of the THEATRE, etc.
+
+
+
+
+HERE FOLLOWETH AN ABRIDGMENT OF DIVERS CHAPTERS OF THE FIRST BOOK OF
+INTERPRETATION OF NATURE.
+
+
+
+CAP. 12.
+
+
+That in deciding and determining of the truth of knowledge, men have
+put themselves upon trials not competent.  That antiquity and
+authority; common and confessed notions; the natural and yielding
+consent of the mind; the harmony and coherence of a knowledge in
+itself; the establishing of principles with the touch and reduction
+of other propositions unto them; inductions without instances
+contradictory; and the report of the senses; are none of them
+absolute and infallible evidence of truth, and bring no security
+sufficient for effects and operations.  That the discovery of new
+works and active directions not known before, is the only trial to be
+accepted of; and yet not that neither, in ease where one particular
+giveth light to another; but where particulars induce an axiom or
+observation, which axiom found out discovereth and designeth new
+particulars.  That the nature of this trial is not only upon the
+point, whether the knowledge be profitable or no, but even upon the
+point whether the knowledge be true or no; not because you may always
+conclude that the Axiom which discovereth new instances is true, but
+contrariwise you may safely conclude that if it discover not any new
+instance it is in vain and untrue.  That by new instances are not
+always to be understood new recipes but new assignations, and of the
+diversity between these two.  That the subtilty of words, arguments,
+notions, yea of the senses themselves, is but rude and gross in
+comparison of the subtilty of things; and of the slothful and
+flattering opinions of those which pretend to honour the mind of man
+in withdrawing and abstracting it from particulars, and of the
+inducements and motives whereupon such opinions have been conceived
+and received.
+
+
+
+
+CAP. 13.
+
+
+Of the error in propounding chiefly the search of causes and
+productions of things concrete, which are infinite and transitory,
+and not of abstract natures, which are few and permanent.  That these
+natures are as the alphabet or simple letters, whereof the variety of
+things consisteth; or as the colours mingled in the painter's shell,
+wherewith he is able to make infinite variety of faces or shapes.  An
+enumeration of them according to popular note.  That at the first one
+would conceive that in the schools by natural philosophy were meant
+the knowledge of the efficients of things concrete; and by metaphysic
+the knowledge of the forms of natures simple; which is a good and fit
+division of knowledge: but upon examination there is no such matter
+by them intended.  That the little inquiry into the production of
+simple natures sheweth well that works were not sought; because by
+the former knowledge some small and superficial deflexions from the
+ordinary generations and productions may be found out, but the
+discovery of all profound and radical alteration must arise out of
+the latter knowledge.
+
+
+
+
+CAP. 14.
+
+
+Of the error in propounding the search of the materials or dead
+beginnings or principles of things, and not the nature of motions,
+inclinations, and applications.  That the whole scope of the former
+search is impertinent and vain; both because there are no such
+beginnings, and if there were they could not be known.  That the
+latter manner of search (which is all) they pass over compendiously
+and slightly as a by-matter.  That the several conceits in that kind,
+as that the lively and moving beginnings of things should be shift or
+appetite of matter to privation; the spirit of the world working in
+matter according to platform; the proceeding or fructifying of
+distinct kinds according to their proprieties; the intercourse of the
+elements by mediation of their common qualities; the appetite of like
+portions to unite themselves; amity and discord, or sympathy and
+antipathy; motion to the centre, with motion of stripe or press; the
+casual agitation, aggregation, and essays of the solid portions in
+the void space; motion of shuttings and openings; are all mere
+nugations; and that the calculating and ordination of the true
+degrees, moments, limits, and laws of motions and alterations (by
+means whereof all works and effects are produced), is a matter of a
+far other nature than to consist in such easy and wild generalities.
+
+
+
+
+CAP. 15.
+
+
+Of the great error of inquiring knowledge in Anticipations.  That I
+call Anticipations the voluntary collections that the mind maketh of
+knowledge; which is every man's reason.  That though this be a solemn
+thing, and serves the turn to negotiate between man and man (because
+of the conformity and participation of men's minds in the like
+errors), yet towards inquiry of the truth of things and works it is
+of no value.  That civil respects are a lett that this pretended
+reason should not be so contemptibly spoken of as were fit and
+medicinable, in regard that hath been too much exalted and glorified,
+to the infinite detriment of man's estate.  Of the nature of words
+and their facility and aptness to cover and grace the defects of
+Anticipations.  That it is no marvel if these Anticipations have
+brought forth such diversity and repugnance in opinions, theories, or
+philosophies, as so many fables of several arguments.  That had not
+the nature of civil customs and government been in most times
+somewhat adverse to such innovations, though contemplative, there
+might have been and would have been many more.  That the second
+school of the Academics and the sect of Pyrrho, or the considerers
+that denied comprehension, as to the disabling of man's knowledge
+(entertained in Anticipations) is well to be allowed, but that they
+ought when they had overthrown and purged the floor of the ruins to
+have sought to build better in place.  And more especially that they
+did unjustly and prejudicially to charge the deceit upon the report
+of the senses, which admitteth very sparing remedy; being indeed to
+have been charged upon the Anticipations of the mind, which admitteth
+a perfect remedy.  That the information of the senses is sufficient,
+not because they err not, but because the use of the sense in
+discovering of knowledge is for the most part not immediate.  So that
+it is the work, effect, or instance, that trieth the Axiom, and the
+sense doth but try the work done or not done, being or not being.
+That the mind of man in collecting knowledge needeth great variety of
+helps, as well as the hand of man in manual and mechanical practices
+needeth great variety of instruments.  And that it were a poor work
+that if instruments were removed men would overcome with their naked
+hands.  And of the distinct points of want and insufficiency in the
+mind of man.
+
+
+
+
+CAP. 16.
+
+
+That the mind of a man, as it is not a vessel of that content or
+receipt to comprehend knowledge without helps and supplies, so again
+it is not sincere, but of an ill and corrupt tincture.  Of the
+inherent and profound errors and superstitions in the nature of the
+mind, and of the four sorts of Idols or false appearances that offer
+themselves to the understanding in the inquisition of knowledge; that
+is to say, the Idols of the Tribe, the Idols of the Palace, the Idols
+of the Cave, and the Idols of the Theatre.  That these four, added to
+the incapacity of the mind and the vanity and malignity of the
+affections, leave nothing but impotency and confusion.  A recital of
+the particular kinds of these four Idols, with some chosen examples
+of the opinions they have begot, such of them as have supplanted the
+state of knowledge most.
+
+
+
+
+CAP. 17.
+
+
+Of the errors of such as have descended and applied themselves to
+experience, and attempted to induce knowledge upon particulars.  That
+they have not had the resolution and strength of mind to free
+themselves wholly from Anticipations, but have made a confusion and
+intermixture of Anticipations and observations, and so vanished.
+That if any have had the strength of mind generally to purge away and
+discharge all Anticipations, they have not had that greater and
+double strength and patience of mind, as well to repel new
+Anticipations after the view and search of particulars, as to reject
+old which were in their mind before; but have from particulars and
+history flown up to principles without the mean degrees, and so
+framed all the middle generalities or axioms, not by way of scale or
+ascension from particulars, but by way of derivation from principles;
+whence hath issued the infinite chaos of shadows and notions,
+wherewith both books and minds have been hitherto, and may be yet
+hereafter much more pestered.  That in the course of those
+derivations, to make them yet the more unprofitable, they have used
+when any light of new instance opposite to any assertion appeared,
+rather to reconcile the instance than to amend the rule.  That if any
+have had or shall have the power and resolution to fortify and
+inclose his mind against all Anticipations, yet if he have not been
+or shall not be cautioned by the full understanding of the nature of
+the mind and spirit of man, and therein of the seats, pores and
+passages both of knowledge and error, he hath not been nor shall not
+be possibly able to guide or keep on his course aright.  That those
+that have been conversant in experience and observation have used,
+when they have intended to discover the cause of any effect, to fix
+their consideration narrowly and exactly upon that effect itself with
+all the circumstances thereof, and to vary the trial thereof as many
+ways as can be devised; which course amounteth but to a tedious
+curiosity, and ever breaketh off in wondering and not in knowing; and
+that they have not used to enlarge their observation to match and
+sort that effect with instances of a diverse subject, which must of
+necessity be before any cause be found out.  That they have passed
+over the observation of instances vulgar and ignoble, and stayed
+their attention chiefly upon instances of mark; whereas the other
+sort are for the most part more significant and of better height and
+information.  That every particular that worketh any effect is a
+thing compounded (more or less) of diverse single natures, (more
+manifest and more obscure,) and that it appeareth not to whether of
+the natures the effect is to be ascribed, and yet notwithstanding
+they have taken a course without breaking particulars and reducing
+them by exclusions and inclusions to a definite point, to conclude
+upon inductions in gross, which empirical course is no less vain than
+the scholastical.  That all such as have sought action and work out
+of their inquiry have been hasty and pressing to discover some
+practices for present use, and not to discover Axioms, joining with
+them the new assignations as their sureties.  That the forerunning of
+the mind to frame recipes upon Axioms at the entrance, is like
+Atalanta's golden ball that hindereth and interrupteth the course,
+and is to be inhibited till you have ascended to a certain stage and
+degree of generalities; which forbearance will be liberally
+recompensed in the end; and that chance discovereth new inventions by
+one and one, but science by knots and clusters.  That they have not
+collected sufficient quantity of particulars, nor them in sufficient
+certainty and subtilty, nor of all several kinds, nor with those
+advantages and discretions in the entry and sorting which are
+requisite; and of the weak manner of collecting natural history which
+hath been used.  Lastly that they had no knowledge of the formulary
+of interpretation, the work whereof is to abridge experience and to
+make things as certainly found out by Axiom in short time, as by
+infinite experiences in ages.
+
+
+
+
+CAP. 18.
+
+
+That the cautels and devices put in practice in the delivery of
+knowledge for the covering and palliating of ignorance, and the
+gracing and overvaluing of that they utter, are without number; but
+none more bold and more hurtful than two; the one that men have used
+of a few observations upon any subject to make a solemn and formal
+art, by filling it up with discourse, accommodating it with some
+circumstances and directions to practice, and digesting it into
+method, whereby men grow satisfied and secure, as if no more inquiry
+were to be made of that matter; the other, that men have used to
+discharge ignorance with credit, in defining all those effects which
+they cannot attain unto to be out of the compass of art and human
+endeavour.  That the very styles and forms of utterance are so many
+characters of imposture, some choosing a style of pugnacity and
+contention, some of satire and reprehension, some of plausible and
+tempting similitudes and examples, some of great words and high
+discourse, some of short and dark sentences, some of exactness of
+method, all of positive affirmation, without disclosing the true
+motives and proofs of their opinions, or free confessing their
+ignorance or doubts, except it be now and then for a grace, and in
+cunning to win the more credit in the rest, and not in good faith.
+That although men be free from these errors and incumbrances in the
+will and affection, yet it is not a thing so easy as is conceived to
+convey the conceit of one man's mind into the mind of another without
+loss or mistaking, specially in notions new and differing from those
+that are received.  That never any knowledge was delivered in the
+same order it was invented, no not in the mathematic, though it
+should seem otherwise in regard that the propositions placed last do
+use the propositions or grants placed first for their proof and
+demonstration.  That there are forms and methods of tradition wholly
+distinct and differing, according to their ends whereto they are
+directed.  That there are two ends of tradition of knowledge, the one
+to teach and instruct for use and practice, the other to impart or
+intimate for re-examination and progression.  That the former of
+these ends requireth a method not the same whereby it was invented
+and induced, but such as is most compendious and ready whereby it may
+be used and applied.  That the latter of the ends, which is where a
+knowledge is delivered to be continued and spun on by a succession of
+labours, requireth a method whereby it may be transposed to another
+in the same manner as it was collected, to the end it may be
+discerned both where the work is weak, and where it breaketh off.
+That this latter method is not only unfit for the former end, but
+also impossible for all knowledge gathered and insinuated by
+Anticipations, because the mind working inwardly of itself, no man
+can give a just account how he came to that knowledge which he hath
+received, and that therefore this method is peculiar for knowledge
+gathered by interpretation.  That the discretion anciently observed,
+though by the precedent of many vain persons and deceivers disgraced,
+of publishing part, and reserving part to a private succession, and
+of publishing in a manner whereby it shall not be to the capacity nor
+taste of all, but shall as it were single and adopt his reader, is
+not to be laid aside, both for the avoiding of abuse in the excluded,
+and the stregthening of affection in the admitted.  That there are
+other virtues of tradition, as that there be no occasion given to
+error, and that it carry a vigour to root and spread against the
+vanity of wits and injuries of time; all which if they were ever due
+to any knowledge delivered, or if they were never due to any human
+knowledge heretofore delivered, yet are now due to the knowledge
+propounded.
+
+
+
+
+CAP. 19.
+
+
+Of the impediments which have been in the affections, the principle
+whereof hath been despair or diffidence, and the strong apprehension
+of the difficulty, obscurity, and infiniteness which belongeth to the
+invention of knowledge, and that men have not known their own
+strength, and that the supposed difficulties and vastness of the work
+is rather in shew and muster than in state or substance where the
+true way is taken.  That this diffidence hath moved and caused some
+never to enter into search, and others when they have been entered
+either to give over or to seek a more compendious course than can
+stand with the nature of true search.  That of those that have
+refused and prejudged inquiry, the more sober and grave sort of wits
+have depended upon authors and traditions, and the more vain and
+credulous resorted to revelation and intelligence with spirits and
+higher natures.  That of those that have entered into search, some
+having fallen upon some conceits which they after consider to be the
+same which they have found in former authors, have suddenly taken a
+persuasion that a man shall but with much labour incur and light upon
+the same inventions which he might with ease receive from others; and
+that it is but a vanity and self-pleasing of the wit to go about
+again, as one that would rather have a flower of his own gathering,
+than much better gathered to his hand.  That the same humour of sloth
+and diffidence suggesteth that a man shall but revive some ancient
+opinion, which was long ago propounded, examined, and rejected.  And
+that it is easy to err in conceit that a man's observation or notion
+is the same with a former opinion, both because new conceits must of
+necessity be uttered in old words, and because upon true and
+erroneous grounds men may meet in consequence or conclusion, as
+several lines or circles that cut in some one point.  That the
+greatest part of those that have descended into search have chosen
+for the most artificial and compendious course to induce principles
+out of particulars, and to reduce all other propositions unto
+principles; and so instead of the nearest way, have been led to no
+way or a mere labyrinth.  That the two contemplative ways have some
+resemblance with the old parable of the two moral ways, the one
+beginning with incertainty and difficulty, and ending in plainness
+and certainty, and the other beginning with shew of plainness and
+certainty, and ending in difficulty and incertainty.  Of the great
+and manifest error and untrue conceit or estimation of the
+infiniteness of particulars, whereas indeed all prolixity is in
+discourse and derivations; and of the infinite and most laborious
+expense of wit that hath been employed upon toys and matters of no
+fruit or value.  That although the period of one age cannot advance
+men to the furthest point of interpretation of nature, (except the
+work should be undertaken with greater helps than can be expected),
+yet it cannot fail in much less space of time to make return of many
+singular commodities towards the state and occasions of man's life.
+That there is less reason of distrust in the course of interpretation
+now propounded than in any knowledge formerly delivered, because this
+course doth in sort equal men's wits, and leaveth no great advantage
+or preeminence to the perfect and excellent motions of the spirit.
+That to draw a straight line or to make a circle perfect round by aim
+of hand only, there must be a great difference between an unsteady
+and unpractised hand and a steady and practised, but to do it by rule
+or compass it is much alike.
+
+
+
+
+CAP. 21.
+
+
+Of the impediments which have been in the two extreme humours of
+admiration of antiquity and love of novelty, and again of
+over-servile reverence or over-light scorn of the opinions of others.
+
+
+
+
+CAP. 22.
+
+
+Of the impediments which have been in the affection of pride,
+specially of one kind, which is the disdain of dwelling and being
+conversant much in experiences and particulars, specially such as are
+vulgar in occurrency, and base and ignoble in use.  That besides
+certain higher mysteries of pride, generalities seem to have a
+dignity and solemnity, in that they do not put men in mind of their
+familiar actions, in that they have less affinity with arts
+mechanical and illiberal, in that they are not so subject to be
+controlled by persons of mean observation, in that they seem to teach
+men that they know not, and not to refer them to that they know.  All
+which conditions directly feeding the humour of pride, particulars do
+want.  That the majesty of generalities, and the divine nature of the
+mind in taking them (if they be truly collected, and be indeed the
+direct reflexions of things,) cannot be too much magnified.  And that
+it is true that interpretation is the very natural and direct
+intention, action, and progression of the understanding delivered
+from impediments.  And that all Anticipation is but a deflexion or
+declination by accident.
+
+
+
+
+CAP. 25.
+
+
+Of the impediments which have been in the state of heathen religion
+and other superstitions and errors of religion.  And that in the true
+religion there hath not nor is any impediment, except it be by
+accident or intermixture of humour.  That a religion which consisteth
+in rites and forms of adoration, and not in confessions and beliefs,
+is adverse to knowledge; because men having liberty to inquire and
+discourse of Theology at pleasure, it cometh to pass that all
+inquisition of nature endeth and limiteth itself in such metaphysical
+or theological discourse; whereas if men's wits be shut out of that
+port, it turneth them again to discover, and so to seek reason of
+reason more deeply.  And that such was the religion of the Heathen.
+That a religion that is jealous of the variety of learning, discourse,
+opinions, and sects, (as misdoubting it may shake the foundations,)
+or that cherisheth devotion upon simplicity and ignorance, as
+ascribing ordinary effects to the immediate working of God, is
+adverse to knowledge.  That such is the religion of the Turk, and
+such hath been the abuse of Christian religion at some several times,
+and in some several factions.  And of the singular advantage which
+the Christian religion hath towards the furtherance of true knowledge,
+in that it excludeth and interdicteth human reason, whether by
+interpretation or anticipation, from examining or discussing of the
+mysteries and principles of faith.
+
+
+
+
+CAP. 26.
+
+
+Of the impediments which have been in the nature of society and the
+policies of state.  That there is no composition of estate or society,
+nor order or quality of persons, which have not some point of
+contrariety towards true knowledge.  That monarchies incline wits to
+profit and pleasure, and commonwealths to glory and vanity.  That
+universities incline wits to sophistry and affectation, cloisters to
+fables and unprofitable subtilty, study at large to variety; and that
+it is hard to say, whether mixture of contemplations with an active
+life, or retiring wholly to contemplations, do disable and hinder the
+mind more.
+
+
+
+
+(Back Cover.)
+
+
+Philosophy.
+Line 1: see commentary
+Line 2: libri dimidium est, pagina 34
+Line 3: pagellarum numeri veri
+
+
+
+Writing on the Back Cover of VALERIUS TERMINUS
+
+
+The writing in the original is on the outside of the last leaf, which
+is in fact the cover.  The front cover, if there ever was one, is
+lost.  The ink with which the line containing the symbols is written
+corresponds with that in the body of the manuscript; and the line
+itself is placed symmetrically in the middle of the page, near the
+top.  The two lower lines are apparently by another hand, probably of
+later date, certainly in ink of a different colour, and paler.  The
+word "Philosophy" is in Bacon's own hand, written lightly in the
+upper corner at the left, and is no doubt merely a docket inserted
+afterwards when he was sorting his papers.  What connexion there was
+between the note and the manuscript it is impossible to say.  But it
+is evidently a careful memorandum of something, set down by somebody
+when the manuscript was at hand; and so many of the characters
+resemble those adopted to represent the planets and the signs of the
+zodiac, that one is led to suspect in it a note of the positions of
+the heavenly bodies at the time of some remarkable accident;--perhaps
+the plague, of which 30,578 persons died in London, during the year
+ending 22nd December, 1603. The period of the commencement, the
+duration, or the cessation of such an epidemic might naturally be so
+noted.
+
+Now three of the characters clearly represent respectively Mercury,
+Aquarius, and Sagittarius.  The sign for Jupiter, as we find it in
+old books, is so like a 4, that the first figure of 45 may very well
+have been meant for it.  The monogram at the beginning of the line
+bears a near resemblance to the sign of Capricorn in its most
+characteristic feature.  And the mark over the sign of Aquarius
+appears to be an abbreviation of that which usually represents the
+Sun.  (The blot between 1603 and B is nothing; being only meant to
+represent a figure 6 blotted out with the finger before the ink was
+dry.) Suspecting therefore that the writing contained a note of the
+positions of Mercury and Jupiter in the year 1603, I sent a copy to a
+scientific friend and asked him if from such data he could determine
+the month indicated.  He found upon a rough calculation (taking
+account of mean motions only) that Jupiter did enter the sign of
+Sagittarius about the 10th of August, 1603, and continued there for
+about a twelvemonth; that the Sun entered Aquarius about the 12th or
+13th of January, 1603-4; and that Mercury was about the 16th or 17th
+of the same month in the 26th or 27th degree of Capricorn:
+--coincidences which would have been almost conclusive as to the date
+indicated, if Capricorn had only stood where Aquarius does, and vice
+versa.  But their position as they actually stood in the manuscript
+is a formidable, if not fatal, objection to the interpretation.
+
+According to another opinion with which I have been favoured, the
+first monogram is a NOTA BENE; the next group may mean DIES MERCURII
+(Wednesday) 26TH JANUARY, 1603; and the rest refers to something not
+connected with astronomy.  But to this also there is a serious
+objection.  The 26th of January, 1603-4, was a Friday, and it seems
+to me very improbable that any Englishman would have described the
+preceding January as belonging to the year 1603. Bacon himself
+invariably dated according to the civil year, and the occasional use
+of the historical year in loose memoranda would have involved all his
+dates in confusion.  I should think it more probable that the writer
+(who may have been copying a kind of notation with which he was not
+familiar) miscopied the sign of Venus into that of Mercury; in which
+case it would mean Friday, 26th January, 1603-4. But even then the
+explanation would he unsatisfactory, as leaving so much unexplained.
+Those however who are familiar with old manuscripts relating to such
+subjects may probably be able to interpret the whole.
+
+
+
+
+
+End of Project Gutenberg Valerius Terminus: of the Interpretation of Nature
+

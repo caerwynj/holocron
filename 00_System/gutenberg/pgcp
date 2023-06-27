@@ -1,0 +1,3 @@
+#!/bin/sh
+grep Link $1.txt | awk '{print $2}' |sort | uniq |sed 's/zip/txt/' > t1
+for i in `cat t1`; do cp ~/Holocron1/pg/$i $1; done
