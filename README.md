@@ -9,6 +9,35 @@ excellent accompaniament to all the other documents.
 The Holocron is intended to fit on a SD Card or portable external drive 
 and be used with mobile devices, laptops, etc.
 
+# Contents
+
+## 00_System
+encyclopedia, gutenberg, wikipedia
+
+## 10_Philosophy
+aristotle, bacon, hume, locke, mill, plato
+
+## 20_Religion
+bahai, bible, buddhism, christianity, clemtext, confuscianism, hinduism, islam, judaism, koran, laotzu, mormon, taoism
+
+## 30_Society
+smith
+
+## 40_Language
+dict, webster
+
+## 50_Science
+darwin, einstein, euclid, faraday, harvey, hooke, huygens, lavoisier, lyell, maxwell, newton, oeis, planck
+
+## 70_Arts
+bach, jsbach.net, midiworld
+
+## 80_Literature
+austen, homer, melville, rand, seneca, shakespeare, thoreau
+
+## 90_History
+factbook
+
 
 # Formats
 
